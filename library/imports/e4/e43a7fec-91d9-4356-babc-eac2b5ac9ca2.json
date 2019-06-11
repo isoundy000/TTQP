@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_share_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "home_share_btn_01": {
+      "__uuid__": "d36ebd3d-cab7-4b44-81be-ca8a00b535dd"
+    },
+    "home_share_btn_02": {
+      "__uuid__": "da9c1a8f-10a5-4eb1-abd7-7f4dfcb57e89"
+    },
+    "home_share_btn_title_01": {
+      "__uuid__": "1a5dc420-93b0-4fc5-a5eb-27291298fa1e"
+    },
+    "home_share_btn_title_02": {
+      "__uuid__": "7132f441-efc9-4ad2-99d3-ea1d93211fc4"
+    },
+    "home_share_complete_title": {
+      "__uuid__": "06b214ef-1efb-4fd9-8743-e33af31f4741"
+    },
+    "home_share_content_img": {
+      "__uuid__": "824b12fe-f3bb-40d7-ae22-2f8a52a16b83"
+    },
+    "home_share_content_title": {
+      "__uuid__": "52d47258-17fa-485d-98fb-d98eefcd09d4"
+    },
+    "home_share_logo": {
+      "__uuid__": "38b433ce-eeef-4906-b6ae-4c65ec78becf"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_bottom_email_normal_icon",
+    "texture": "6f2b16d9-fdf5-4a6b-8e89-9a04c8436863",
+    "atlas": "eef5d749-0d5e-4f70-bf72-4962c2b884bf",
+    "rect": [
+      132,
+      157,
+      132,
+      144
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      132,
+      144
+    ]
+  }
+}

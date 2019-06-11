@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mall-background.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "mall-alert-box": {
+      "__uuid__": "0104461d-01f7-4dee-8a9d-87ce9b5841d7"
+    },
+    "mall-back": {
+      "__uuid__": "28bef554-8dd7-4713-873d-c20d236d32c2"
+    },
+    "mall-base": {
+      "__uuid__": "f6d1a13d-a75c-4905-89e2-c8f1859a7b4f"
+    },
+    "mall-click": {
+      "__uuid__": "5ca372ee-5567-4e20-839b-572f669ba4a1"
+    },
+    "mall-left-box": {
+      "__uuid__": "828f45a3-5e3a-4b16-8032-264421189369"
+    },
+    "mall-mall-btn": {
+      "__uuid__": "63e17c77-61d2-428a-b094-48deeba7be84"
+    },
+    "mall-masking": {
+      "__uuid__": "1292af06-ba62-4994-afe5-3844a2a154eb"
+    },
+    "mall-no-click": {
+      "__uuid__": "39b6cd71-ca60-4e0d-ab56-fb010dc8ac72"
+    },
+    "mall-plate-textfiled": {
+      "__uuid__": "95fcff14-3323-4820-85e0-a1895d1221d1"
+    },
+    "mall-plate": {
+      "__uuid__": "3a692938-677d-40dd-b22d-6a3943feace4"
+    },
+    "mall-title": {
+      "__uuid__": "a1b652e0-92d2-4cd8-be41-87e3b622f689"
+    }
+  }
+}

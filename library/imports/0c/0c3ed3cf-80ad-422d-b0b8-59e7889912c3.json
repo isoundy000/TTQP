@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zhuanpan_btn_bg_02",
+    "texture": "e4082ecd-312e-4a58-a1dd-99abd2a713b1",
+    "atlas": "bb3b5375-01fd-4c61-bf59-e3fe81474575",
+    "rect": [
+      666,
+      477,
+      238,
+      113
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      238,
+      113
+    ]
+  }
+}

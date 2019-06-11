@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_lanseduiziquan_03",
+    "texture": "95f3918a-cc2b-49d1-9913-b03124e546e2",
+    "atlas": "316ab9d5-f422-48d7-a58b-f6d0382b270c",
+    "rect": [
+      2,
+      1322,
+      228,
+      218
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

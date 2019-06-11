@@ -1,0 +1,14 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_agreement_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "home_agreement_btn_title_01": {
+      "__uuid__": "1ef25c92-58dd-4983-b5b2-069a642f7a78"
+    },
+    "home_agreement_title": {
+      "__uuid__": "df58bf97-ce27-4fed-bccf-027c7ea4bca5"
+    }
+  }
+}

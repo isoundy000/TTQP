@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UI_KP_fangk",
+    "texture": "0fb74d25-c3c6-4beb-babe-691959ee6764",
+    "atlas": "29ba12e4-3dc2-4244-9b46-0a8ce001398c",
+    "rect": [
+      786,
+      80,
+      88,
+      107
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      107
+    ]
+  }
+}

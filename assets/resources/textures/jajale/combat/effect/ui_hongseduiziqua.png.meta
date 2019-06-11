@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ecd47c78-09f5-4ae7-907b-a71f0555420d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "ui_hongseduiziqua": {
+      "ver": "1.0.3",
+      "uuid": "6e980b42-0844-4b7c-bea1-2355c6cd7b47",
+      "rawTextureUuid": "ecd47c78-09f5-4ae7-907b-a71f0555420d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -50,
+      "offsetY": 22.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 920,
+      "height": 1997,
+      "rawWidth": 1024,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

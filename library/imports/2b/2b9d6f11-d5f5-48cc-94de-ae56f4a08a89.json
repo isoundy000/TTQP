@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_rubCard_rotate_02",
+    "texture": "dcb50936-dd0c-4c2d-9f96-392461de41e8",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      95,
+      99
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      99,
+      99
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

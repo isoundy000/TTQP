@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-sanpai",
+    "texture": "7f531b75-5081-4894-b838-ef11b84fc15c",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      45,
+      129
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      50,
+      133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

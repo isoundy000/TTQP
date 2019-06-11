@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_hongseduiziqua_00006",
+    "texture": "541b5d48-ee3c-436c-ade4-d480cb9da175",
+    "atlas": "2a7d36f7-f064-4579-8229-79660032b324",
+    "rect": [
+      2,
+      1102,
+      228,
+      218
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

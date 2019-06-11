@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_fasong_title",
+    "texture": "95682f79-cba9-40d6-a1aa-6702115ee491",
+    "atlas": "216cf41b-a520-449e-9e03-fb5cb74707c3",
+    "rect": [
+      1330,
+      0,
+      122,
+      68
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      122,
+      68
+    ]
+  }
+}

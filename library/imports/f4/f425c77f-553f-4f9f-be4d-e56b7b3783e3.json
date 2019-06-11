@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-zqpg",
+    "texture": "19277df0-11d6-4792-8c28-330c2dec6282",
+    "atlas": "2d509002-ec5b-48ef-8404-33d550ff4e7b",
+    "rect": [
+      0,
+      0,
+      169,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      169,
+      45
+    ]
+  }
+}

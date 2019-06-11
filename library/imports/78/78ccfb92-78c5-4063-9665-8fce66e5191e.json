@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_bottom_bg_icon",
+    "texture": "6f2b16d9-fdf5-4a6b-8e89-9a04c8436863",
+    "atlas": "eef5d749-0d5e-4f70-bf72-4962c2b884bf",
+    "rect": [
+      0,
+      0,
+      1920,
+      157
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1920,
+      157
+    ]
+  }
+}

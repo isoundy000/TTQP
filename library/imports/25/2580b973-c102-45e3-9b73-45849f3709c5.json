@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mall-icon.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "mall-dushen": {
+      "__uuid__": "a11dd53b-7c51-472f-8de0-3f7d0ca15def"
+    },
+    "mall-flower": {
+      "__uuid__": "25eb683d-b937-43c7-920e-f1f27fb6f3c6"
+    },
+    "mall-fortune-cat": {
+      "__uuid__": "3fa4754c-cee0-4ddc-8a88-e5cb14b047ff"
+    },
+    "mall-grass": {
+      "__uuid__": "cacec801-0959-4b5b-a4c3-8de433cea61f"
+    },
+    "mall-huluwa": {
+      "__uuid__": "a721d13d-98e4-432c-ab14-1e59eeb155a6"
+    },
+    "mall-meng": {
+      "__uuid__": "717ed650-85de-401f-bd8e-d16c00552acd"
+    },
+    "mall-speaker": {
+      "__uuid__": "da9ce9db-f64e-4b9b-b47e-da7fa937e61d"
+    }
+  }
+}

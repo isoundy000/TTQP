@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_set_ghmm",
+    "texture": "94f1926a-d6fd-4c06-bcf5-86164747322a",
+    "atlas": "03513bce-4390-4a53-af46-1ed65824fea7",
+    "rect": [
+      142,
+      35,
+      124,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      124,
+      35
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-100W1",
+    "texture": "c9f9f507-4098-4073-aa2e-0b061918543b",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      94,
+      96
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      94,
+      99
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

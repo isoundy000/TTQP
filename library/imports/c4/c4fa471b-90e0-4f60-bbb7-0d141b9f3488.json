@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_jiajiale_16",
+    "texture": "42fed3c8-c77d-4462-8877-8bd61f140ccc",
+    "atlas": "91bce9d5-0888-4df1-84c9-9a7e40babfe1",
+    "rect": [
+      142,
+      282,
+      368,
+      136
+    ],
+    "offset": [
+      16,
+      -19
+    ],
+    "originalSize": [
+      512,
+      256
+    ]
+  }
+}

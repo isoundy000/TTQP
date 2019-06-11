@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "friend_info_img_biaoqing_bg",
+    "texture": "740a1f83-935f-47da-8663-813535077747",
+    "atlas": "914b6cca-a856-4f7f-b7aa-7ac636029b8a",
+    "rect": [
+      671,
+      66,
+      76,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      73
+    ],
+    "capInsets": [
+      9,
+      8,
+      10,
+      10
+    ]
+  }
+}

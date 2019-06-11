@@ -1,0 +1,104 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_zitilizi.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ui_zitilizi_01": {
+      "__uuid__": "27d91797-4fa4-4122-99c3-e6b018606f87"
+    },
+    "ui_zitilizi_02": {
+      "__uuid__": "3c615349-d01d-4473-9368-fcbc146e8455"
+    },
+    "ui_zitilizi_03": {
+      "__uuid__": "18dec7f8-3232-4861-84bc-048d3dff8721"
+    },
+    "ui_zitilizi_04": {
+      "__uuid__": "d130f6c5-6638-4908-87b7-ce664746775a"
+    },
+    "ui_zitilizi_05": {
+      "__uuid__": "bcd42d0b-d684-4aca-9b52-68046ac48846"
+    },
+    "ui_zitilizi_06": {
+      "__uuid__": "dc6d6643-791a-4c51-9572-a5653d71656b"
+    },
+    "ui_zitilizi_07": {
+      "__uuid__": "861e25c7-72f7-40f6-92e3-ad42387fa320"
+    },
+    "ui_zitilizi_08": {
+      "__uuid__": "4bcfaa94-e4c2-4fdd-bbda-f8ec88ba85a0"
+    },
+    "ui_zitilizi_09": {
+      "__uuid__": "9092ec36-0a22-4d74-820f-369401bd0a05"
+    },
+    "ui_zitilizi_10": {
+      "__uuid__": "18d0279c-f6e8-497b-894e-2c9cff424a8f"
+    },
+    "ui_zitilizi_11": {
+      "__uuid__": "22f777ef-6797-452b-9709-396f8ae47741"
+    },
+    "ui_zitilizi_12": {
+      "__uuid__": "661fc792-e552-4a2d-9de2-2508a1cc237d"
+    },
+    "ui_zitilizi_13": {
+      "__uuid__": "b9d06223-554e-4d41-b0f2-a7175d6b3434"
+    },
+    "ui_zitilizi_14": {
+      "__uuid__": "1b4f50c8-5153-455f-95b3-b0f1c1f2d78c"
+    },
+    "ui_zitilizi_15": {
+      "__uuid__": "efa3ef7f-770a-4ff4-9b17-74f2f8078800"
+    },
+    "ui_zitilizi_16": {
+      "__uuid__": "2adc1ed8-9324-4f45-befd-9d45cbfb101b"
+    },
+    "ui_zitilizi_17": {
+      "__uuid__": "f04734b4-9311-432f-9be6-9e4f6d5e1080"
+    },
+    "ui_zitilizi_18": {
+      "__uuid__": "dd51f7bf-b6a5-490b-ad98-f48b481a2e63"
+    },
+    "ui_zitilizi_19": {
+      "__uuid__": "c1fea4ae-a4f8-4d3d-8fc0-075eeed4cc3b"
+    },
+    "ui_zitilizi_20": {
+      "__uuid__": "dd0343de-d8b0-4cac-a506-a73a40e2cf60"
+    },
+    "ui_zitilizi_21": {
+      "__uuid__": "95fbc12b-3db1-419f-b7e8-980b5d02018f"
+    },
+    "ui_zitilizi_22": {
+      "__uuid__": "bbd33040-1a77-44a8-a15c-5aba5b8395ec"
+    },
+    "ui_zitilizi_23": {
+      "__uuid__": "7ebac7b8-1350-4ce1-806a-277881939692"
+    },
+    "ui_zitilizi_24": {
+      "__uuid__": "c07b0290-1a6d-4907-919f-58a4b0b008c9"
+    },
+    "ui_zitilizi_25": {
+      "__uuid__": "46d774ec-a745-4b34-8230-0bceecc6908b"
+    },
+    "ui_zitilizi_26": {
+      "__uuid__": "93d4e86e-378f-4cd8-9b57-1091d6c23b5e"
+    },
+    "ui_zitilizi_27": {
+      "__uuid__": "ec82309b-307a-4997-93f8-c702dda8679b"
+    },
+    "ui_zitilizi_28": {
+      "__uuid__": "9761c61d-7f61-47f0-994d-36e19fdff652"
+    },
+    "ui_zitilizi_29": {
+      "__uuid__": "525fedd4-bc78-4922-9a4b-22c6347d7b38"
+    },
+    "ui_zitilizi_30": {
+      "__uuid__": "70e6ce57-9300-4756-be4e-cb561ee556ef"
+    },
+    "ui_zitilizi_31": {
+      "__uuid__": "2dd53883-f1c5-490d-9561-b3f436b5d9ca"
+    },
+    "ui_zitilizi_32": {
+      "__uuid__": "17e5db11-b936-48fe-9122-f29066623d80"
+    }
+  }
+}

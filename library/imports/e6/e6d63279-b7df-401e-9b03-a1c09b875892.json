@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-manageText",
+    "texture": "3b1b4014-5ccc-4e41-bc93-83dc4537f3cb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      60
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      141,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

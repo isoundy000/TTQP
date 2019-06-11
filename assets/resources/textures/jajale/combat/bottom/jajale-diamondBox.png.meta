@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "626cb523-dbab-4da6-939f-183055a47f08",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "jajale-diamondBox": {
+      "ver": "1.0.3",
+      "uuid": "ca67b095-f410-4b1e-9880-f8998cf8f120",
+      "rawTextureUuid": "626cb523-dbab-4da6-939f-183055a47f08",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 179,
+      "height": 51,
+      "rawWidth": 179,
+      "rawHeight": 51,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_ying_1.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ui_ying_1_01": {
+      "__uuid__": "98a523fe-d517-4ef3-b868-c054868c7a6f"
+    },
+    "ui_ying_1_02": {
+      "__uuid__": "9e4362a8-7f00-4ba8-ab1e-8b5fa4436b67"
+    },
+    "ui_ying_1_03": {
+      "__uuid__": "39ece1cb-29a3-495a-860c-55410806aa19"
+    },
+    "ui_ying_1_04": {
+      "__uuid__": "9c525c0b-af06-4ba7-ad93-2c0b8fd03e3a"
+    },
+    "ui_ying_1_05": {
+      "__uuid__": "2d294138-ed30-4bc6-9607-80ca1b80c89c"
+    },
+    "ui_ying_1_06": {
+      "__uuid__": "be253e43-f99b-4730-a819-e5cf126f8be2"
+    },
+    "ui_ying_1_07": {
+      "__uuid__": "f47594d8-a9bf-4688-9fc4-012f05e5f54c"
+    },
+    "ui_ying_1_08": {
+      "__uuid__": "4c9f9425-ec12-46a0-a0d9-21c3ab241bfc"
+    },
+    "ui_ying_1_09": {
+      "__uuid__": "54984e82-9626-43b1-9487-f6e7e97e3b28"
+    },
+    "ui_ying_1_10": {
+      "__uuid__": "79d5db8e-4de5-4d63-9457-9a1ef297d3c4"
+    },
+    "ui_ying_1_11": {
+      "__uuid__": "092fb8fa-06f1-49b0-abda-ad62ae119f16"
+    },
+    "ui_ying_1_12": {
+      "__uuid__": "638854c8-e61c-44ff-9f79-442855094bbe"
+    },
+    "ui_ying_1_13": {
+      "__uuid__": "fc6996c2-9e7e-4981-91da-a82ee13e1571"
+    },
+    "ui_ying_1_14": {
+      "__uuid__": "09603aa6-f72e-4bb3-a94a-228ef7820f50"
+    },
+    "ui_ying_1_15": {
+      "__uuid__": "372b29a6-9980-4405-b053-0ab17836eaf0"
+    },
+    "ui_ying_1_16": {
+      "__uuid__": "75582cab-2fd3-4e5a-b868-750a5afec8cc"
+    },
+    "ui_ying_1_17": {
+      "__uuid__": "20a7dd1c-9a34-4964-9429-af307d77dbac"
+    },
+    "ui_ying_1_18": {
+      "__uuid__": "1b5fbafb-fb90-40b9-b12b-8cbbc01ce118"
+    },
+    "ui_ying_1_19": {
+      "__uuid__": "0e9c1841-5965-420f-bc9d-767485e30c08"
+    },
+    "ui_ying_1_20": {
+      "__uuid__": "00c72db1-7a1f-40c0-b8e9-eb99d72f8b7f"
+    },
+    "ui_ying_1_21": {
+      "__uuid__": "a19ed7cc-e51d-4b91-98fc-421f3e912a9d"
+    },
+    "ui_ying_1_22": {
+      "__uuid__": "2d241530-ad48-4bf3-8e4c-3e0f768ee3ed"
+    },
+    "ui_ying_1_23": {
+      "__uuid__": "89d621b9-97fc-4543-b9fc-4388400d8c41"
+    },
+    "ui_ying_1_24": {
+      "__uuid__": "d604da72-5eb6-4338-b621-1acf6ad35d51"
+    },
+    "ui_ying_1_25": {
+      "__uuid__": "d95ad9f0-0d19-4832-b7e1-841854d4d7de"
+    },
+    "ui_ying_1_26": {
+      "__uuid__": "d025fd30-582f-4e55-87b9-9187dc5e5693"
+    },
+    "ui_ying_1_27": {
+      "__uuid__": "661619bd-d9e1-430c-868e-24393baba3ca"
+    },
+    "ui_ying_1_28": {
+      "__uuid__": "5c296b4b-69fd-466f-af30-641d3b423f0a"
+    },
+    "ui_ying_1_29": {
+      "__uuid__": "03664ad3-f5e9-479d-a226-dd6d3da07865"
+    },
+    "ui_ying_1_30": {
+      "__uuid__": "544354e0-4c63-44a2-8f8d-43458a8dba76"
+    },
+    "ui_ying_1_31": {
+      "__uuid__": "600769b9-f789-4dad-832b-d739002d52d3"
+    },
+    "ui_ying_1_32": {
+      "__uuid__": "af00090f-330e-4f91-8e1d-4307f7901d01"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_activity_ywc_title",
+    "texture": "780552ef-1df9-4291-a67c-b9c1807b6613",
+    "atlas": "7912cfcd-bcd9-49c6-9409-95db06f3688f",
+    "rect": [
+      610,
+      0,
+      126,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      49
+    ]
+  }
+}

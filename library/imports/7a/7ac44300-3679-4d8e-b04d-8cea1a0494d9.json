@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sqdj",
+    "texture": "843205e6-6374-40cf-878c-b3a91ee2e08a",
+    "atlas": "77e16cff-39bd-43ed-b634-a531b71a6469",
+    "rect": [
+      0,
+      167,
+      160,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      160,
+      44
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_choumalv_09",
+    "texture": "c7a39d7f-3bc8-4833-9fad-45b313438ff7",
+    "atlas": "53a0ab66-1795-4a40-8cbf-7756ce508f1c",
+    "rect": [
+      230,
+      114,
+      112,
+      108
+    ],
+    "offset": [
+      -1,
+      2
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_kaishi_1.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ui_kaishi_1_01": {
+      "__uuid__": "d6f4e07c-1bcb-4242-9ecd-6f66c1616eb4"
+    },
+    "ui_kaishi_1_02": {
+      "__uuid__": "f0d6bc49-d61f-4131-8f93-9a189c2ff6ef"
+    },
+    "ui_kaishi_1_03": {
+      "__uuid__": "73811826-9bf0-487a-9d22-63ce88bd3dce"
+    },
+    "ui_kaishi_1_04": {
+      "__uuid__": "f0ceab2f-58c5-4d3c-9853-dbb02cdeab43"
+    },
+    "ui_kaishi_1_05": {
+      "__uuid__": "77b31e38-1fae-4bd5-b35a-105a417ca947"
+    },
+    "ui_kaishi_1_06": {
+      "__uuid__": "1ca24f0b-f0ec-4e7b-bbea-616261a5680f"
+    },
+    "ui_kaishi_1_07": {
+      "__uuid__": "a21c2888-f65e-41d0-8e41-a93ba308dc67"
+    },
+    "ui_kaishi_1_08": {
+      "__uuid__": "939d33b6-3590-4802-a440-25c55d09b6bf"
+    },
+    "ui_kaishi_1_09": {
+      "__uuid__": "454edadc-28e1-4e35-a3d3-623413f9dada"
+    },
+    "ui_kaishi_1_10": {
+      "__uuid__": "2bb1ec00-e57b-483e-bf2f-77b4d1fe5197"
+    },
+    "ui_kaishi_1_11": {
+      "__uuid__": "5046415a-65fb-4f85-8c03-93b7cc9eac89"
+    },
+    "ui_kaishi_1_12": {
+      "__uuid__": "57be8bff-7454-48d5-8e7b-e4dc0f39aaf1"
+    },
+    "ui_kaishi_1_13": {
+      "__uuid__": "30c3908d-9559-4a40-9b22-40888ef6e71a"
+    },
+    "ui_kaishi_1_14": {
+      "__uuid__": "47223117-b79c-4ea7-82a5-2c463665292a"
+    },
+    "ui_kaishi_1_15": {
+      "__uuid__": "f3532388-d5a9-42e5-a079-2c39eab9d675"
+    },
+    "ui_kaishi_1_16": {
+      "__uuid__": "46e5c941-47ce-4db3-9c0b-d84c8d97301e"
+    }
+  }
+}

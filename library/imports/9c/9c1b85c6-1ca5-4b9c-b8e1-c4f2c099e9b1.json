@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_email_imgs_new",
+    "texture": "70bd7788-d827-4660-92ec-eec89d8a1cd2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      851,
+      756
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      851,
+      756
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

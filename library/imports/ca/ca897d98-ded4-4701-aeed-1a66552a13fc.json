@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-manageB2",
+    "texture": "51d25cf1-1f11-40ef-93cd-44c8a826c3fd",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      191,
+      32
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      191,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

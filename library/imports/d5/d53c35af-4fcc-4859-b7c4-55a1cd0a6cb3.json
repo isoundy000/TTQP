@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_bang_bg_02",
+    "texture": "f20ddf58-733f-4fae-bdd6-2def93010d0d",
+    "atlas": "19089882-ab44-42f1-a893-7238ed49a409",
+    "rect": [
+      2822,
+      549,
+      560,
+      764
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      560,
+      764
+    ]
+  }
+}

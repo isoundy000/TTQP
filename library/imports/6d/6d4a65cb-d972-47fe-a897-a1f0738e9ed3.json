@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-carryGold",
+    "texture": "19277df0-11d6-4792-8c28-330c2dec6282",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      456,
+      429
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      458,
+      431
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

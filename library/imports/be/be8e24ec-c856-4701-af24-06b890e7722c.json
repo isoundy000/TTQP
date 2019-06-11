@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bottom_btnbg_rw_01",
+    "texture": "e2fbf90c-1256-47bf-83c6-c90cf9c2754a",
+    "atlas": "f8050363-49ae-4bcb-8a57-cb49a16c21e8",
+    "rect": [
+      2832,
+      0,
+      186,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      186,
+      77
+    ]
+  }
+}

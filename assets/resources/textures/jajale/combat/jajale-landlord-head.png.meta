@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5e3da8f1-e700-4fbc-8a2f-1f38dcaae94b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "jajale-landlord-head": {
+      "ver": "1.0.3",
+      "uuid": "477c34e2-322a-4ed5-8df7-2064de9fee08",
+      "rawTextureUuid": "5e3da8f1-e700-4fbc-8a2f-1f38dcaae94b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -9.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 118,
+      "height": 146,
+      "rawWidth": 141,
+      "rawHeight": 146,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

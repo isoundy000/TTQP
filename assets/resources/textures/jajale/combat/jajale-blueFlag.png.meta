@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "eb96985d-1840-433e-9534-270b3c22359d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "jajale-blueFlag": {
+      "ver": "1.0.3",
+      "uuid": "7c9e00b8-94f5-452d-abfb-73738b5eb5dc",
+      "rawTextureUuid": "eb96985d-1840-433e-9534-270b3c22359d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 219,
+      "height": 230,
+      "rawWidth": 219,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

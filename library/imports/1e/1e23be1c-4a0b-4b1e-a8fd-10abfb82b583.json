@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_email_imgs_new.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "email_btn_down_01": {
+      "__uuid__": "0243a5ca-3301-464d-a89a-9590ecf427b2"
+    },
+    "email_btn_down_02": {
+      "__uuid__": "317c8b22-4ad3-4ce6-96a2-02b6e4f623b4"
+    },
+    "email_gold_title_bg_01": {
+      "__uuid__": "784e1cdf-dcff-4df6-b5b7-ab1d445d3458"
+    },
+    "email_gold_title_bg_02": {
+      "__uuid__": "4696866d-5619-4330-b0db-c99c32a10b7c"
+    },
+    "email_img_item_bg": {
+      "__uuid__": "b1d850b3-b5d7-4e87-919e-98d3f9865da4"
+    },
+    "email_title_chakan": {
+      "__uuid__": "89da1a8b-b506-474c-929c-d849c36815ae"
+    },
+    "email_title_ckyj": {
+      "__uuid__": "d06101c0-38d5-484d-a1d6-d0a9b46fa624"
+    },
+    "email_title_fsjb": {
+      "__uuid__": "867a7e12-8770-4263-8b2d-b98266a13655"
+    },
+    "email_title_fsyj_01": {
+      "__uuid__": "e253be7c-16c3-4b4f-ac2f-d7bfb7fe8c44"
+    },
+    "email_title_fsyj_11": {
+      "__uuid__": "fd0a0cf6-f7bb-4e1e-89a4-635ccb419e2a"
+    },
+    "email_title_hyyj_01": {
+      "__uuid__": "272bed88-dccc-49bf-8498-31a90cf756ea"
+    },
+    "email_title_hyyj_02": {
+      "__uuid__": "332ea688-eab0-4170-9c85-b2dc80dd48b5"
+    },
+    "email_title_qrfs": {
+      "__uuid__": "14232e34-29af-49cd-b123-6e5465f5641a"
+    },
+    "email_title_scqd": {
+      "__uuid__": "60c2e6f9-a8b3-4906-9911-28b35ec2a3ab"
+    },
+    "email_title_sjrid": {
+      "__uuid__": "864c1563-c4f9-4717-801b-923fe7438951"
+    },
+    "email_title_sjrnc": {
+      "__uuid__": "4e773fff-aa5b-43c0-9094-80ba459c7e50"
+    },
+    "email_title_wan": {
+      "__uuid__": "3f89397e-2dfc-4e74-a82d-46ad74b7ed45"
+    },
+    "email_title_wck": {
+      "__uuid__": "d230a2be-88e3-4e72-a1eb-05353bf18abb"
+    },
+    "email_title_wdyx": {
+      "__uuid__": "a76d2010-ed18-4b63-a1f0-a0765918e11c"
+    },
+    "email_title_xtxx_01": {
+      "__uuid__": "44b5d58d-38e2-47eb-80f4-7fc8b0743c6d"
+    },
+    "email_title_xtxx_02": {
+      "__uuid__": "b64da333-acfa-4434-981d-287873b51dd2"
+    },
+    "email_title_xtyj_01": {
+      "__uuid__": "c4dc4968-da4f-4cea-ae47-ab41f0ed1bd3"
+    },
+    "email_title_xtyj_02": {
+      "__uuid__": "3e4bbad8-d445-43aa-8495-3813c4f3f571"
+    },
+    "email_title_yck": {
+      "__uuid__": "e5851c78-5035-4097-a4b4-04b92d5e2d20"
+    },
+    "email_title_yi": {
+      "__uuid__": "793df9f9-cbf4-44e0-ba88-f1bc743d8cc7"
+    },
+    "home_email_close_icon": {
+      "__uuid__": "60374a7f-808a-49ae-9265-9c9f70b15e29"
+    },
+    "home_email_empty": {
+      "__uuid__": "0c55ad1d-e9fe-45e2-854b-4b06407b45a5"
+    },
+    "home_email_gift_box_icon": {
+      "__uuid__": "1031de0a-e18d-457e-a2f8-348cd47e9f0e"
+    },
+    "home_email_oppen_icon": {
+      "__uuid__": "1448af41-e9bc-4314-be40-0db7ccc2d5b4"
+    }
+  }
+}

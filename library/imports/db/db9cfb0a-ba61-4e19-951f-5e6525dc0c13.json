@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mall-buy-prop",
+    "texture": "b09ef86c-b321-40ec-bba4-77f5281d1ac3",
+    "atlas": "72235bd2-0a63-4135-8806-3b8d8806a3b9",
+    "rect": [
+      588,
+      0,
+      294,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      294,
+      87
+    ]
+  }
+}

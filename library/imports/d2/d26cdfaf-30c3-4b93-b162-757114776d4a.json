@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-farmer-head",
+    "texture": "8d78a1ba-ec3a-4f3c-a8c3-f5dfac547248",
+    "atlas": "",
+    "rect": [
+      0,
+      7,
+      141,
+      132
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      141,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

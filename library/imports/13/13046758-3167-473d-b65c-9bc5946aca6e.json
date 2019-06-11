@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_rubCard_btnBg",
+    "texture": "2bd4108a-31f0-4a28-9bde-a8b9a4e99df7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      126,
+      466
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      126,
+      466
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

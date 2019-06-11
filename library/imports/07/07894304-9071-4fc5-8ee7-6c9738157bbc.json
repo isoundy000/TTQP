@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "landlordWin",
+    "texture": "87bcdf89-042a-4d20-98dd-bc970143e486",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      108,
+      38
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      113,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

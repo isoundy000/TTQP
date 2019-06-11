@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-desk",
+    "texture": "f034599b-4ba0-40a8-b889-79d42f2cff12",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1399,
+      781
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1399,
+      781
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

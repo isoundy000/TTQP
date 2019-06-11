@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_award_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "home_award_bg": {
+      "__uuid__": "af5799cb-7014-47bb-ba67-08e36f73ec04"
+    },
+    "home_award_getbtn_01": {
+      "__uuid__": "5e37f239-c212-42c9-881d-3ef8b8b23f2e"
+    },
+    "home_award_getbtn_02": {
+      "__uuid__": "3ebdd01d-23fc-44b4-8db6-7f353b3a84b3"
+    },
+    "home_award_wupin_bg": {
+      "__uuid__": "cdae4a47-2ed5-46a7-9d3f-522603e9bdde"
+    }
+  }
+}

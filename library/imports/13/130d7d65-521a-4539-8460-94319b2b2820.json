@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_rubCard_open_02",
+    "texture": "1c176665-3750-4626-a0c2-6cabd8b0d132",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      95,
+      99
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      99,
+      99
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

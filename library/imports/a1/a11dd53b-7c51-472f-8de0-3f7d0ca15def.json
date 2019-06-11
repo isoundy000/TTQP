@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mall-dushen",
+    "texture": "151f8ee9-cc40-4bbd-b260-c7b2d43b7d48",
+    "atlas": "2580b973-c102-45e3-9b73-45849f3709c5",
+    "rect": [
+      1,
+      168,
+      171,
+      161
+    ],
+    "offset": [
+      2,
+      -3
+    ],
+    "originalSize": [
+      225,
+      167
+    ]
+  }
+}

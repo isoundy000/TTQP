@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UI_KP_paibei1",
+    "texture": "4ab9fe6e-1dd8-486a-b01e-23655fe1dddb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      440,
+      610
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      440,
+      610
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

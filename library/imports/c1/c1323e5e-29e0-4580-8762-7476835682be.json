@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_Vstexiao_3_04",
+    "texture": "7d730a69-38fc-4aed-93d1-59cdfaffbaf6",
+    "atlas": "b4c5696a-a4c0-4a20-8af5-cb4a67bed0f5",
+    "rect": [
+      1658,
+      2,
+      320,
+      338
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "rotated": 1
+  }
+}

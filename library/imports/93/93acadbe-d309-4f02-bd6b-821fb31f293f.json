@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_setting_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "home_setting_boy": {
+      "__uuid__": "547f4341-3422-48ce-98ae-03016526e356"
+    },
+    "home_setting_checkbox_false": {
+      "__uuid__": "865258f7-a617-49c2-aadd-3974645e2071"
+    },
+    "home_setting_checkbox_true": {
+      "__uuid__": "4b304a86-d62a-4bc6-b6cb-ceca970aa498"
+    },
+    "home_setting_close_bg": {
+      "__uuid__": "f4efedfa-6880-4035-a4ca-f6c36d5a2888"
+    },
+    "home_setting_exit_title": {
+      "__uuid__": "124f136e-3d80-4968-bca2-24e330d13bfe"
+    },
+    "home_setting_girl": {
+      "__uuid__": "6541c2bd-d1a8-424b-be29-1743fbcd7d6a"
+    },
+    "home_setting_open_bg": {
+      "__uuid__": "190d570d-98d0-49f1-80e4-c51617196361"
+    },
+    "home_setting_statu_tag": {
+      "__uuid__": "ebae1491-9267-4a68-9cf8-52be546b62cf"
+    },
+    "home_setting_title": {
+      "__uuid__": "44c9f829-3941-48da-ba5d-a50d6ad4a51b"
+    },
+    "home_setting_title_bg": {
+      "__uuid__": "0fa3d8ae-d3e7-4a50-81b9-035437d18f07"
+    }
+  }
+}

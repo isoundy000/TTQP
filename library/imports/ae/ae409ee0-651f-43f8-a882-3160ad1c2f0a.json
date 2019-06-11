@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "activity_title_dzp_02",
+    "texture": "780552ef-1df9-4291-a67c-b9c1807b6613",
+    "atlas": "7912cfcd-bcd9-49c6-9409-95db06f3688f",
+    "rect": [
+      1459,
+      0,
+      163,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      163,
+      54
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mall-zuanshi-icon.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "mall-icon-zuanshi1": {
+      "__uuid__": "52543efb-2d2f-42e3-946a-5a9796c9a9d5"
+    },
+    "mall-icon-zuanshi2": {
+      "__uuid__": "613f0c5f-6eb3-43cd-8cda-be558c65809f"
+    },
+    "mall-icon-zuanshi3": {
+      "__uuid__": "20ed9b86-e065-4c5b-8be1-1d770c7eb20c"
+    },
+    "mall-icon-zuanshi4": {
+      "__uuid__": "21006aca-ff59-471e-bfd6-bd772de94e3d"
+    },
+    "mall-icon-zuanshi5": {
+      "__uuid__": "729f600c-0ab0-4b32-adec-6cc19df3be8f"
+    },
+    "mall-icon-zuanshi6": {
+      "__uuid__": "2a395567-292c-44ce-99dc-e26ce68b9706"
+    },
+    "mall-icon-zuanshi9": {
+      "__uuid__": "638e7436-bf06-45ee-9f95-84eb77449668"
+    }
+  }
+}

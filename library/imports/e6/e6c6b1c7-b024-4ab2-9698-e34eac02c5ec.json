@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "brand",
+    "texture": "0fb74d25-c3c6-4beb-babe-691959ee6764",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      880,
+      1363
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      882,
+      1363
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

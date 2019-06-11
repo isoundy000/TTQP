@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-countdown",
+    "texture": "57a7e44b-37e9-4d4f-97e2-923639f13f1d",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      372,
+      67
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      380,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

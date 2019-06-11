@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_kefu_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "img_bg": {
+      "__uuid__": "4cb7b12e-bd2e-443f-8f59-f86ead11427b"
+    },
+    "img_chat_bg_01": {
+      "__uuid__": "43c30737-23ac-4af6-a7eb-11b897c623f7"
+    },
+    "img_chat_bg_02": {
+      "__uuid__": "97b54363-e59f-4218-8826-0aafc839c419"
+    },
+    "img_content_bg": {
+      "__uuid__": "1256f90a-ff4e-497d-84d2-441b8d55b47d"
+    },
+    "img_ewm": {
+      "__uuid__": "e0487214-0319-4a3f-b30c-2ce80afb05aa"
+    },
+    "img_item_bg": {
+      "__uuid__": "f87e7ab0-6397-417f-bb4a-c5595411542f"
+    },
+    "title_alert": {
+      "__uuid__": "9c1cda8f-6c92-4710-b95e-2e2afaaf4eb4"
+    },
+    "title_aybczxkf": {
+      "__uuid__": "18b21c0c-1fd0-4edd-9890-27fce2575881"
+    },
+    "title_sys": {
+      "__uuid__": "aca3ec90-0341-4997-ad06-27ba6c7ca8a0"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-jinhua",
+    "texture": "4935b649-7570-4e19-aa31-7d817e92eb54",
+    "atlas": "",
+    "rect": [
+      1,
+      3,
+      46,
+      128
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      50,
+      133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

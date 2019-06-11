@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_log_title_ksjb",
+    "texture": "79516ec6-1ce0-48fb-832e-ca5bbc65d93f",
+    "atlas": "f5e670b9-6dc1-46aa-945c-6605e6f56522",
+    "rect": [
+      454,
+      0,
+      117,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      30
+    ]
+  }
+}

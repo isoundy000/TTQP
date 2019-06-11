@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UI_KP_meihJ_1",
+    "texture": "0fb74d25-c3c6-4beb-babe-691959ee6764",
+    "atlas": "29ba12e4-3dc2-4244-9b46-0a8ce001398c",
+    "rect": [
+      630,
+      571,
+      210,
+      192
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      210,
+      192
+    ]
+  }
+}

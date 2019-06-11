@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-back2",
+    "texture": "b3e46a72-5801-4a75-8cc1-f7555e26379a",
+    "atlas": "",
+    "rect": [
+      16,
+      16,
+      157,
+      158
+    ],
+    "offset": [
+      -1.5,
+      1
+    ],
+    "originalSize": [
+      192,
+      192
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img_hengban_01",
+    "texture": "95682f79-cba9-40d6-a1aa-6702115ee491",
+    "atlas": "216cf41b-a520-449e-9e03-fb5cb74707c3",
+    "rect": [
+      748,
+      252,
+      1052,
+      154
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1052,
+      154
+    ],
+    "capInsets": [
+      17,
+      13,
+      13,
+      17
+    ]
+  }
+}

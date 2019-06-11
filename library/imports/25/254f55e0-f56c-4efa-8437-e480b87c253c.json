@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UI_KP_paimian",
+    "texture": "768e98b8-67c5-4143-831d-6696a3c64441",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      440,
+      610
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      440,
+      610
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

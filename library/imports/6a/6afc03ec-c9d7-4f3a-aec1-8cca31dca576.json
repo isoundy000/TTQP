@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_haoyouting_08",
+    "texture": "a255467c-051d-4f98-a1ac-22f9111c4977",
+    "atlas": "edf4f3ff-2d3e-40bb-a094-8cc9e0b5e37e",
+    "rect": [
+      562,
+      2,
+      176,
+      256
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "rotated": 1
+  }
+}

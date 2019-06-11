@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_Ndadizhu",
+    "texture": "5606e049-3490-458e-a3ec-c9248357879b",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      492,
+      990
+    ],
+    "offset": [
+      -8,
+      15
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

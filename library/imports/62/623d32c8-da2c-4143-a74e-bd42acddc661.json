@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "添加好友按下",
+    "texture": "01c2684b-be96-44af-b46c-1c485a2fecec",
+    "atlas": "",
+    "rect": [
+      5,
+      6,
+      121,
+      122
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      133,
+      134
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

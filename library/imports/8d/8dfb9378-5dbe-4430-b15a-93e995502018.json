@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-beginFarmer",
+    "texture": "f08b721a-6d61-43d8-86fc-2ab992b582fb",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      455,
+      369
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      455,
+      371
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

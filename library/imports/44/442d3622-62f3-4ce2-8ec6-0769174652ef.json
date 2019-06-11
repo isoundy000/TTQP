@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "changlongTrend",
+    "texture": "47b30bc7-2a5c-48e4-b71f-54521bd5774e",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      53,
+      247
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      251
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

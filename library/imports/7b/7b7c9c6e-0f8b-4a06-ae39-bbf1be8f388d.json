@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-chat",
+    "texture": "cad3b4a2-7f19-42bb-a03d-ff5ff5acde63",
+    "atlas": "",
+    "rect": [
+      10,
+      10,
+      134,
+      99
+    ],
+    "offset": [
+      1,
+      -4
+    ],
+    "originalSize": [
+      152,
+      111
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

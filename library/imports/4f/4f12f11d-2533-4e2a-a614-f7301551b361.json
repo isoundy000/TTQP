@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_yingpaizi",
+    "texture": "7795567d-2c90-4a06-9ba3-c49e60af8a5b",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1010,
+      966
+    ],
+    "offset": [
+      -5,
+      27
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

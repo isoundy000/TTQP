@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "checkLR2",
+    "texture": "e037a283-3910-418f-9626-4db75456a56f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

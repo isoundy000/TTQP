@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "jajale-carryGold.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "jajale-backHome": {
+      "__uuid__": "471050b4-60c7-44aa-98b4-f2d584344268"
+    },
+    "jajale-drjbTitle": {
+      "__uuid__": "9d4d49d9-a1cc-4350-a6a5-d32400e830f1"
+    },
+    "jajale-floor": {
+      "__uuid__": "356ace5b-2cac-4153-931b-f7f4f68793c0"
+    },
+    "jajale-pgz": {
+      "__uuid__": "8d6185a5-5a9d-47bb-95b9-212c78ab7255"
+    },
+    "jajale-pgzLayout": {
+      "__uuid__": "a34bf07a-a7c9-4116-aaa1-7efac19e3909"
+    },
+    "jajale-select10": {
+      "__uuid__": "3dc42a4a-441e-41cd-819c-e21d55d5ffe4"
+    },
+    "jajale-sitdown": {
+      "__uuid__": "1529bcc8-a94b-4c77-8f8a-db2654899cb0"
+    },
+    "jajale-zqpg": {
+      "__uuid__": "f425c77f-553f-4f9f-be4d-e56b7b3783e3"
+    }
+  }
+}

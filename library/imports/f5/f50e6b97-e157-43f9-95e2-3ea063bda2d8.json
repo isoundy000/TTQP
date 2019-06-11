@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_Ddanong_11",
+    "texture": "5a059db3-f93a-4efc-9062-d114952b1125",
+    "atlas": "2b35653c-0b29-4bca-90c8-a5c62efb065a",
+    "rect": [
+      260,
+      204,
+      200,
+      244
+    ],
+    "offset": [
+      1,
+      6
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "rotated": 1
+  }
+}

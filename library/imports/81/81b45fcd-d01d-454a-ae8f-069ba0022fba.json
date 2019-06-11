@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-headBox1",
+    "texture": "cd64abc2-b6e2-47f5-83e3-3e14c0a86623",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      152,
+      194
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      160,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

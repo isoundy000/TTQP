@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "smallBox",
+    "texture": "70d224cd-8ea9-4e87-8ede-6c459e9ed9bb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      976,
+      709
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      976,
+      709
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

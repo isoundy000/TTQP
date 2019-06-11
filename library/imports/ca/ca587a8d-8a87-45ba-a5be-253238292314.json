@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-goldBox1",
+    "texture": "b4f875a4-6a76-4323-a60a-937b95ad7da5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      179,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      179,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "delHome",
+    "texture": "768967a1-1cc1-4509-bcf4-99448e2ce6e1",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      114,
+      33
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      118,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

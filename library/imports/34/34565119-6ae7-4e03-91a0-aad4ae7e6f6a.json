@@ -1,0 +1,104 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_yingpaizi.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ui_yingpaizi_01": {
+      "__uuid__": "9df898f0-f1e0-4774-8e44-3cafff79a5ca"
+    },
+    "ui_yingpaizi_02": {
+      "__uuid__": "1f89af59-280a-41f0-a535-23c7b986d8d7"
+    },
+    "ui_yingpaizi_03": {
+      "__uuid__": "4fc99b4a-c58b-4d3b-818d-1351fd8513fa"
+    },
+    "ui_yingpaizi_04": {
+      "__uuid__": "9d5eed68-7154-48ba-8838-4898e296162c"
+    },
+    "ui_yingpaizi_05": {
+      "__uuid__": "34a0a3d6-6bab-4c89-a041-332dba957dda"
+    },
+    "ui_yingpaizi_06": {
+      "__uuid__": "ba3f2c57-2a8d-4b61-a643-db1d473fd74d"
+    },
+    "ui_yingpaizi_07": {
+      "__uuid__": "d2b7ce24-ce33-42a9-a05c-09d318baeed7"
+    },
+    "ui_yingpaizi_08": {
+      "__uuid__": "254e5a22-674a-49ed-8c5e-844df339bda4"
+    },
+    "ui_yingpaizi_09": {
+      "__uuid__": "476f46d2-2a80-4d89-a840-f290a18a6438"
+    },
+    "ui_yingpaizi_10": {
+      "__uuid__": "62fa76df-a745-4b0f-b359-bac3f9bef625"
+    },
+    "ui_yingpaizi_11": {
+      "__uuid__": "4fde9366-7f3b-492b-8e84-da60562d12a5"
+    },
+    "ui_yingpaizi_12": {
+      "__uuid__": "0c347fd7-df46-4456-ad9b-f90f188631c7"
+    },
+    "ui_yingpaizi_13": {
+      "__uuid__": "df1a5313-890f-4d38-b7ac-7311fe0b381f"
+    },
+    "ui_yingpaizi_14": {
+      "__uuid__": "bbee3802-55e5-42b9-a572-611799c18fba"
+    },
+    "ui_yingpaizi_15": {
+      "__uuid__": "4c9861dc-de2e-43b0-b3ba-1353b67b7d33"
+    },
+    "ui_yingpaizi_16": {
+      "__uuid__": "0453fa5e-e900-445f-9c9b-371d9c1103d6"
+    },
+    "ui_yingpaizi_17": {
+      "__uuid__": "ffccb474-4fa5-4e12-a7d3-1900b92ba547"
+    },
+    "ui_yingpaizi_18": {
+      "__uuid__": "4bbd7850-04a5-4051-ada6-7f77b44224ca"
+    },
+    "ui_yingpaizi_19": {
+      "__uuid__": "f4e2c959-bceb-427a-ae1f-57bb65ed43e8"
+    },
+    "ui_yingpaizi_20": {
+      "__uuid__": "99884d56-2cd1-40da-971d-fa4d255c282f"
+    },
+    "ui_yingpaizi_21": {
+      "__uuid__": "f6d9a728-74d4-4fa4-a01b-1577caabc637"
+    },
+    "ui_yingpaizi_22": {
+      "__uuid__": "115d294c-416a-469e-b6af-1157dc8bb32f"
+    },
+    "ui_yingpaizi_23": {
+      "__uuid__": "028358df-8c08-4379-aca3-5e9633c1b454"
+    },
+    "ui_yingpaizi_24": {
+      "__uuid__": "4aef62f5-58f5-4f43-99cf-7aec58180e36"
+    },
+    "ui_yingpaizi_25": {
+      "__uuid__": "8e797609-25f3-4af5-87ef-5e1115245961"
+    },
+    "ui_yingpaizi_26": {
+      "__uuid__": "d0e5e373-9db7-4c23-a79c-2e0765524f64"
+    },
+    "ui_yingpaizi_27": {
+      "__uuid__": "7e9d0282-2972-4be0-a5c2-06282c8de72f"
+    },
+    "ui_yingpaizi_28": {
+      "__uuid__": "38508e47-b63d-4f85-9caf-39f33cdefaf6"
+    },
+    "ui_yingpaizi_29": {
+      "__uuid__": "b2d465b9-68bd-45e5-8a0a-9147513b0676"
+    },
+    "ui_yingpaizi_30": {
+      "__uuid__": "0e46d9a3-f904-4679-9cd9-137295c81a1e"
+    },
+    "ui_yingpaizi_31": {
+      "__uuid__": "8fb90a53-c855-466b-8b0a-594477c7ac84"
+    },
+    "ui_yingpaizi_32": {
+      "__uuid__": "f5a782f9-0a8b-412b-96ab-75cbffbdca0f"
+    }
+  }
+}

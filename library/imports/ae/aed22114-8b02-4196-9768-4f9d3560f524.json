@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "global_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "btn_blue_01": {
+      "__uuid__": "86346a62-c2da-428e-9836-1c67c135c614"
+    },
+    "btn_blue_02": {
+      "__uuid__": "e268406d-2c2c-4ab2-99ca-5b02258149d7"
+    },
+    "btn_green_01": {
+      "__uuid__": "b9e61ad4-825a-4f93-9398-9b78db3db540"
+    },
+    "btn_green_02": {
+      "__uuid__": "e330f01e-3287-4d39-aff6-ed5ed77c5783"
+    },
+    "btn_orange_01": {
+      "__uuid__": "19ba5a23-8e43-42a4-a4fb-f480aa322872"
+    },
+    "btn_orange_02": {
+      "__uuid__": "fc462aed-528b-4431-80d3-d01795d26bd8"
+    },
+    "btn_orange_03": {
+      "__uuid__": "2ee20572-5d68-4d65-992a-773d4dd43862"
+    },
+    "btn_orange_11": {
+      "__uuid__": "17a35b4d-f87d-49ab-adbb-248bee254464"
+    },
+    "btn_orange_12": {
+      "__uuid__": "67a57cb5-8db0-4eef-ba33-7cbaed4e5b1e"
+    },
+    "btn_orange_13": {
+      "__uuid__": "1f6604e8-3ab2-40ef-ac2c-244b9052a1ba"
+    },
+    "btn_yellow_01": {
+      "__uuid__": "b9908e50-0cbd-4bac-9bf4-f20610b64faf"
+    },
+    "btn_yellow_02": {
+      "__uuid__": "172ca228-d2d5-42fa-9957-488f969a18c3"
+    },
+    "img_close_01": {
+      "__uuid__": "c0434025-1724-426a-8447-77a75dcef410"
+    },
+    "img_close_02": {
+      "__uuid__": "33ab08d7-493c-4cad-9790-5e4b3358b27c"
+    },
+    "img_dianchi01": {
+      "__uuid__": "a9f81cac-0ad9-4842-851c-befeddf2a4e9"
+    },
+    "img_dianchi02": {
+      "__uuid__": "ed5e3fc2-4745-488a-b9ee-066796811f23"
+    },
+    "img_ditu_01": {
+      "__uuid__": "bfea1902-3e1b-4883-a5e8-a44cf9ac8e35"
+    },
+    "img_gold_01": {
+      "__uuid__": "963f1c35-f608-49ac-8dfb-513725c26dfd"
+    },
+    "img_jiugong_01": {
+      "__uuid__": "8d316b0f-e4df-4cd9-bded-32dc8da540e0"
+    },
+    "img_jiugong_02": {
+      "__uuid__": "ea35a0f4-99be-43b8-ae37-b33c852bb83e"
+    },
+    "img_kuang_01": {
+      "__uuid__": "b9cffc26-fc4e-4199-add0-532d6b893c9a"
+    },
+    "img_show_view_title": {
+      "__uuid__": "34d5c86e-af0a-49a8-a8a1-fadd1296db2d"
+    },
+    "img_zuan_01": {
+      "__uuid__": "1b40d061-6afb-4afb-8399-17a114910ab8"
+    },
+    "img_zuan_02": {
+      "__uuid__": "2769d7c6-69f7-4ac0-aa32-08be2949e6f8"
+    }
+  }
+}

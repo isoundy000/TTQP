@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_choumahongquan_32",
+    "texture": "41355b6f-c21d-42ce-956d-e75ce6bfcf2a",
+    "atlas": "e6615ab6-b9e4-4c7a-871d-d26080447adb",
+    "rect": [
+      260,
+      176,
+      256,
+      170
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

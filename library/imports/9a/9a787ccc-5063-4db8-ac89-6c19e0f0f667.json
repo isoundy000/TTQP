@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-landlord",
+    "texture": "553117e7-d039-4139-a34e-1e27f705901d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      275
+    ],
+    "offset": [
+      -12.5,
+      2
+    ],
+    "originalSize": [
+      213,
+      279
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "global_imgs_new.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "btn_cancel_title": {
+      "__uuid__": "824c4c52-1dcc-45ea-bddf-cd4cb3f5d227"
+    },
+    "btn_fasong_title": {
+      "__uuid__": "b1011cec-8c48-4b40-8348-6e385b6e8613"
+    },
+    "btn_fuxuan_01": {
+      "__uuid__": "484eb074-bef9-4d49-9aba-d466624e0c8c"
+    },
+    "btn_fuxuan_02": {
+      "__uuid__": "09a6a90e-3499-4765-9ae2-ad51ef2654a0"
+    },
+    "btn_guapai_01": {
+      "__uuid__": "8d7b5fbb-76e5-4651-8997-89eecd789191"
+    },
+    "btn_guapai_02": {
+      "__uuid__": "b1c3bd6b-5bec-440f-8f72-8574e0a3ad4d"
+    },
+    "btn_huifu_title": {
+      "__uuid__": "057419bd-fa86-44e7-b2d8-abb12d6ad1e8"
+    },
+    "btn_orange_01": {
+      "__uuid__": "01e8f97d-a30e-4ebf-bb85-1e9271fce7d8"
+    },
+    "btn_orange_02": {
+      "__uuid__": "97ae7f25-46b2-4de5-9832-d6d796668770"
+    },
+    "btn_orange_03": {
+      "__uuid__": "55807869-c5cd-44f9-8411-00b91b6e1f2f"
+    },
+    "btn_orange_11": {
+      "__uuid__": "bbd770c8-19e7-4eb8-9825-12e3497e314f"
+    },
+    "btn_orange_12": {
+      "__uuid__": "37df8150-7089-424b-a90c-3fe0227c311a"
+    },
+    "btn_queding_title": {
+      "__uuid__": "917baaee-435a-4195-88a0-222fce7f8dea"
+    },
+    "btn_shanchu_title": {
+      "__uuid__": "651e3b05-465f-4f92-909e-3a3e4a3cc7ba"
+    },
+    "img_close_01": {
+      "__uuid__": "53a4294c-20f2-41cc-949c-50505b7ab3f3"
+    },
+    "img_close_02": {
+      "__uuid__": "efc1ddfe-713d-4b06-bd5c-c7be155da5c9"
+    },
+    "img_diban_01": {
+      "__uuid__": "007c6bf2-5ea2-4d44-b5bc-afbcc0aef199"
+    },
+    "img_gold_01": {
+      "__uuid__": "4be31206-7a02-4f3e-98e8-a68840e8f39d"
+    },
+    "img_gold_02": {
+      "__uuid__": "8ec4e13a-5b0c-4145-b00c-97cdea208f71"
+    },
+    "img_head_bg_01": {
+      "__uuid__": "0096ed25-df59-4347-b231-c5a58274b5b4"
+    },
+    "img_hengban_01": {
+      "__uuid__": "0a731398-9892-4ecd-b7c7-700759d03f48"
+    },
+    "img_hengban_02": {
+      "__uuid__": "fd4518c3-112d-4e69-ae51-0667c0513beb"
+    },
+    "img_jiugongge_01": {
+      "__uuid__": "7d08011b-a3de-4d5c-ace1-a0320e607715"
+    },
+    "img_jiugongge_02": {
+      "__uuid__": "940092b2-8664-44e2-a295-977d4d18168b"
+    },
+    "img_jiugongge_03": {
+      "__uuid__": "725cded6-7ec5-4dee-b010-ffdc449b0e86"
+    },
+    "img_line_01": {
+      "__uuid__": "558f3988-4182-4202-aedf-68bc8ff493e6"
+    },
+    "img_mianban_01": {
+      "__uuid__": "ae191416-a2ca-45c0-aa0e-ee7c3cc404ad"
+    },
+    "img_mianban_02": {
+      "__uuid__": "1e81b218-ff1d-4225-a7fc-e3fdb53f23f1"
+    },
+    "img_mianban_03": {
+      "__uuid__": "98660ad2-a6d4-480e-9433-ee02bff7b201"
+    },
+    "img_mianban_04": {
+      "__uuid__": "c71cdc52-025c-44bd-9d2b-16671d3045ad"
+    },
+    "img_mun_0": {
+      "__uuid__": "9d1cf19c-a21d-443e-9332-8f6e816ad17e"
+    },
+    "img_mun_1": {
+      "__uuid__": "8a19923e-7776-4fe7-b6dd-6ef145ca542e"
+    },
+    "img_mun_2": {
+      "__uuid__": "d0d76df2-99ab-4de9-b67e-0d426d639501"
+    },
+    "img_mun_3": {
+      "__uuid__": "319cb5ca-2ad2-47f7-b85e-5da83bbcaa00"
+    },
+    "img_mun_4": {
+      "__uuid__": "c047bf58-ec17-4dd4-9dd7-c35bbb30d7fa"
+    },
+    "img_mun_5": {
+      "__uuid__": "f210cb7b-9cdc-4b19-b412-1214ca0e73ee"
+    },
+    "img_mun_6": {
+      "__uuid__": "73118a9b-4cc2-4262-b204-996c6701192e"
+    },
+    "img_mun_7": {
+      "__uuid__": "3e34211e-4a36-4a5a-856f-eb4da74a7ace"
+    },
+    "img_mun_8": {
+      "__uuid__": "8458b277-b2cc-46e2-ac06-7c99f0ee054a"
+    },
+    "img_mun_9": {
+      "__uuid__": "da01b0ea-a478-4adb-9119-802b05c9bff2"
+    },
+    "img_zuan_01": {
+      "__uuid__": "16197592-01c2-4cb3-b633-8062b79f176d"
+    },
+    "img_zuan_02": {
+      "__uuid__": "bc7b3e7c-334a-4eb7-980d-b1a265f8b495"
+    },
+    "img_zuan_03": {
+      "__uuid__": "5bd2403d-993c-4da2-8253-d9ab0e5432eb"
+    }
+  }
+}

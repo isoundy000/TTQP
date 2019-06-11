@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_friend_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "friend_info_btn_recording_01": {
+      "__uuid__": "cf927b25-6e4d-4e9a-adf4-a991bc857bf5"
+    },
+    "friend_info_btn_recording_02": {
+      "__uuid__": "331443e2-0712-46c5-9053-3d531259e301"
+    },
+    "friend_info_img_biaoqing_01": {
+      "__uuid__": "c88b3c0e-2827-4635-9a7e-8c8d789bec81"
+    },
+    "friend_info_img_biaoqing_02": {
+      "__uuid__": "bf25fff1-22fd-4163-a894-565f921d5de3"
+    },
+    "friend_info_img_biaoqing_bg": {
+      "__uuid__": "58f32d8c-b738-49ee-a248-1f0fd7e36a59"
+    },
+    "friend_info_img_bottom_bg": {
+      "__uuid__": "b83106e1-f651-4733-939d-9c999d180dd9"
+    },
+    "friend_info_img_change_recording": {
+      "__uuid__": "5bae069b-cfeb-4c4c-908d-dc1762e7f04a"
+    },
+    "friend_info_img_input_bg": {
+      "__uuid__": "e3db7990-5c6c-4e67-9180-1adb0db842f1"
+    },
+    "friend_info_img_keyboard": {
+      "__uuid__": "f09281af-1e19-48b7-8cc5-26cfef1eee26"
+    },
+    "friend_info_img_recording_01": {
+      "__uuid__": "40519270-f70b-4387-9135-12f9d62d7504"
+    },
+    "friend_info_img_recording_02": {
+      "__uuid__": "afc4b788-bf2f-4656-8945-d224809c61e5"
+    },
+    "friend_info_img_recording_03": {
+      "__uuid__": "3dad0211-0840-4e47-bf95-57db5227076d"
+    },
+    "friend_info_img_recording_04": {
+      "__uuid__": "daa83d94-6934-4e95-8759-40dfb8b6d543"
+    },
+    "friend_info_img_top_bg": {
+      "__uuid__": "f5803d0d-d0c4-4cae-a089-e36a0025269b"
+    },
+    "friend_info_laba_01": {
+      "__uuid__": "bafda10b-aa46-4c58-a417-744dc4e02a54"
+    },
+    "friend_info_laba_02": {
+      "__uuid__": "556464d0-b160-4f63-86ba-376c201d77d6"
+    },
+    "friend_info_laba_03": {
+      "__uuid__": "fd9d6bd5-c277-49c3-8219-4573be318a08"
+    },
+    "friend_info_title_fs": {
+      "__uuid__": "907e4f33-b802-41c6-b131-a6eb1566f660"
+    },
+    "friend_info_title_fsyj": {
+      "__uuid__": "1e79082d-173b-4629-a918-605864289e95"
+    },
+    "friend_info_title_hyxx": {
+      "__uuid__": "c0c44490-e692-4c60-a951-fc0b4dd7f19d"
+    },
+    "friend_info_title_jwhy": {
+      "__uuid__": "df6d64f3-fea3-4790-adb6-7b0951d444c7"
+    },
+    "friend_info_title_qk": {
+      "__uuid__": "d627fd19-075e-441d-bb30-d6ebf6ecd9d0"
+    },
+    "friend_info_title_schy": {
+      "__uuid__": "0af4e216-ebe9-4d9e-888e-c54bd6305915"
+    }
+  }
+}

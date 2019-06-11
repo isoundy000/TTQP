@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enterNow",
+    "texture": "78841379-90d2-4a79-ae1a-b604bdf68a06",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      115,
+      32
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      119,
+      35
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

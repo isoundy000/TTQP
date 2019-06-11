@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_huangsequan_05",
+    "texture": "c0b4c1bf-0cfe-4c4f-a56f-8837afb0f5d3",
+    "atlas": "e9ce5bff-70d2-411e-ae57-12cdedb7482d",
+    "rect": [
+      518,
+      462,
+      256,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-introductionB2",
+    "texture": "f667a8d6-e71c-463d-9c00-4081fc353985",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      191,
+      32
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      191,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

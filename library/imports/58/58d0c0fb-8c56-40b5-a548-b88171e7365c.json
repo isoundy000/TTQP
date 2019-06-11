@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-redFlag",
+    "texture": "e0119b25-6eaa-4f14-952c-edb65a706d23",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      219,
+      230
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      219,
+      233
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_bottom_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "home_bottom_bg_icon": {
+      "__uuid__": "78ccfb92-78c5-4063-9665-8fce66e5191e"
+    },
+    "home_bottom_email_highlighted_icon": {
+      "__uuid__": "9f218994-1125-412f-b35f-ada76d67db13"
+    },
+    "home_bottom_email_normal_icon": {
+      "__uuid__": "9a92baaf-f1d9-4b82-a7c3-c6544e11144b"
+    },
+    "home_bottom_pack_highlighted_icon": {
+      "__uuid__": "2a429c37-2069-457a-9b5b-6d9da087be0a"
+    },
+    "home_bottom_pack_normal_icon": {
+      "__uuid__": "0a67e714-256e-435e-b00a-d5c0209bf783"
+    },
+    "home_bottom_setting_highlighted_icon": {
+      "__uuid__": "027df2cf-bb7e-4649-a368-a7c2f0d72121"
+    },
+    "home_bottom_setting_normal_icon": {
+      "__uuid__": "2c74cf3a-2f26-478e-9feb-127971d627a6"
+    },
+    "home_bottom_shop_highlighted_icon": {
+      "__uuid__": "163b4f33-6e95-4bfd-bbcc-53fe8c865bc6"
+    },
+    "home_bottom_shop_normal_icon": {
+      "__uuid__": "3910eb0f-6c41-44ff-bf53-54309ac3d19b"
+    },
+    "home_bottom_signIn_highlighted_icon": {
+      "__uuid__": "78d2c1a4-39ba-4085-b68a-f8a12d2fcbde"
+    },
+    "home_bottom_signIn_normal_icon": {
+      "__uuid__": "1e537de6-9599-4942-afdc-92685a8ba169"
+    }
+  }
+}

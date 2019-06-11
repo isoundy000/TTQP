@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_award_bg",
+    "texture": "3ba083d1-8ec9-4e03-ba6b-d72b931bdd02",
+    "atlas": "5f2d73a2-ed13-4586-9942-d0822a67a2ff",
+    "rect": [
+      0,
+      335,
+      1440,
+      474
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1440,
+      474
+    ]
+  }
+}

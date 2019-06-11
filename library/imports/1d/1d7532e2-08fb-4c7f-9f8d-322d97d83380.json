@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "maxBox",
+    "texture": "f59a6d88-ea39-4327-ae6f-1bdb309f139a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1106,
+      804
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1106,
+      804
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

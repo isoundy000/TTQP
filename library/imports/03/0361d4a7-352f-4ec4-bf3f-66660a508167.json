@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_signIn_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "home_signIn_btn_title_01": {
+      "__uuid__": "43219f54-2503-40c0-af63-59e79e36c495"
+    },
+    "home_signIn_gou": {
+      "__uuid__": "e501c645-c12d-40ab-9a9b-b42dc8f1b5f3"
+    },
+    "home_signIn_item_bg_01": {
+      "__uuid__": "2f20b013-185f-4356-b67a-2b8943cc1bd4"
+    },
+    "home_signIn_item_bg_02": {
+      "__uuid__": "e353a6b9-f872-4588-9a49-04028a68f431"
+    },
+    "home_signIn_liwu": {
+      "__uuid__": "58d7480e-6018-42c5-9267-ef20daee28e7"
+    },
+    "home_signIn_liwu_01": {
+      "__uuid__": "b99ba577-a819-492c-b944-e6bae63fb51b"
+    },
+    "home_signIn_liwu_02": {
+      "__uuid__": "0e2bdbf8-2f63-4447-b408-d52a3054a283"
+    },
+    "home_signIn_texiao": {
+      "__uuid__": "af4156c6-9be6-4423-921f-43b762392ee6"
+    },
+    "home_signIn_title": {
+      "__uuid__": "4c08cc57-fc4f-4e4d-b650-1f20c42ad452"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_zitilizi_21",
+    "texture": "e227b7d1-33b6-4312-ac3c-2cf7438bd0e5",
+    "atlas": "fa54682d-3077-45d6-8c98-d8ee0a8cd4ae",
+    "rect": [
+      306,
+      227,
+      73,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      150
+    ],
+    "rotated": 1
+  }
+}

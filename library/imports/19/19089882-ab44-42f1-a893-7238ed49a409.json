@@ -1,0 +1,107 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_center_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "home_bang_bg_01": {
+      "__uuid__": "9c3d8ad9-e770-4644-af01-8afb3d7b936d"
+    },
+    "home_bang_bg_02": {
+      "__uuid__": "d53c35af-4fcc-4859-b7c4-55a1cd0a6cb3"
+    },
+    "home_bang_caifu_01": {
+      "__uuid__": "9bdd8283-9417-4d14-a66a-86c408cbb59e"
+    },
+    "home_bang_caifu_02": {
+      "__uuid__": "cbc0e27f-8925-498a-b6a4-eac3b60ca791"
+    },
+    "home_bang_friend_01": {
+      "__uuid__": "b9ec5b57-e561-487f-930b-ca38546345c1"
+    },
+    "home_bang_friend_02": {
+      "__uuid__": "ebe10dfc-6aa3-49a2-bc31-3a5db61405fc"
+    },
+    "home_bang_h_line": {
+      "__uuid__": "bde8037a-966e-4741-b2de-ae42868d3bc1"
+    },
+    "home_bang_head_bg_01": {
+      "__uuid__": "77e064bb-9a02-49a3-b48e-7e3d4879a5ca"
+    },
+    "home_bang_head_bg_02": {
+      "__uuid__": "42d23aec-5756-4946-a3d2-29e248a86b4d"
+    },
+    "home_bang_item_01": {
+      "__uuid__": "29fa6a31-0b36-4b30-80e0-4949750437c1"
+    },
+    "home_bang_item_02": {
+      "__uuid__": "35f4e535-f0fb-4160-a607-fbb87e43234d"
+    },
+    "home_bang_show_01": {
+      "__uuid__": "1e429272-24f9-4af7-8f7b-a38935a189b3"
+    },
+    "home_bang_show_02": {
+      "__uuid__": "817a8174-5130-4cd1-a4da-5c50f6ae77be"
+    },
+    "home_bang_title_line": {
+      "__uuid__": "bbbbfe58-e303-4cb4-8909-6d97cdb2138b"
+    },
+    "home_center_jqqd": {
+      "__uuid__": "dec6b1c0-d3b1-44ab-8311-3e4a91a776fe"
+    },
+    "home_center_star_bg": {
+      "__uuid__": "0ebed840-d15b-4c78-be69-fdc3c6077afd"
+    },
+    "home_center_ttnn_bg": {
+      "__uuid__": "20c8eb97-2ead-4702-9210-feefa2b211d4"
+    },
+    "home_center_ttnn_intro": {
+      "__uuid__": "93c5e1c4-1028-4fc5-b422-4385705e6ba3"
+    },
+    "home_center_ttnn_intro_bg": {
+      "__uuid__": "79015580-f458-4ebb-b9e4-1a201876c1ab"
+    },
+    "home_center_ttnn_pai": {
+      "__uuid__": "f02e9001-8f9f-4a9a-9793-8b24bd8692c5"
+    },
+    "home_center_ttnn_shaizi": {
+      "__uuid__": "639ddc8a-59fc-4b87-a958-b35e0b1561b3"
+    },
+    "home_center_ttnn_title": {
+      "__uuid__": "d6d16e6d-6e3b-4a36-bb45-e41c980d29b5"
+    },
+    "home_center_ttzq_bg": {
+      "__uuid__": "8f244a9f-131b-48b6-99b3-3ff4979877e9"
+    },
+    "home_center_ttzq_intro": {
+      "__uuid__": "9695bc6c-f9d4-4299-b41b-98ddd730fcff"
+    },
+    "home_center_ttzq_intro_bg": {
+      "__uuid__": "b41e08ed-7f66-4be9-a331-9091fc948ede"
+    },
+    "home_center_ttzq_qiu": {
+      "__uuid__": "7ad325b6-6d77-4f1c-80a3-20303aa3df99"
+    },
+    "home_center_ttzq_title": {
+      "__uuid__": "a08ca56d-b520-4b56-827a-87054855d8b9"
+    },
+    "home_center_ttzz_bg": {
+      "__uuid__": "69b11944-e9bd-4f3f-9e6d-f5cca2e1adb0"
+    },
+    "home_center_ttzz_intro": {
+      "__uuid__": "1b9a2ff4-67a3-4194-8121-832b2b9aec1c"
+    },
+    "home_center_ttzz_intro_bg": {
+      "__uuid__": "ce1b2dc3-ef71-44e2-8a56-854fc424095d"
+    },
+    "home_center_ttzz_pai": {
+      "__uuid__": "d97693a4-b6e7-414c-9c7d-6ee841a8884b"
+    },
+    "home_center_ttzz_shaizi": {
+      "__uuid__": "9ffac5cf-1340-4e5a-aa5b-77bdbfaab462"
+    },
+    "home_center_ttzz_title": {
+      "__uuid__": "2f41a35b-b2e0-4127-9418-dbefda796db3"
+    }
+  }
+}

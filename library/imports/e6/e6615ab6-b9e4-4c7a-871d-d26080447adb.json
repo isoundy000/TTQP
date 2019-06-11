@@ -1,0 +1,104 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_choumahongquan.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ui_choumahongquan_01": {
+      "__uuid__": "250e5245-1ded-4d49-bcb7-cc9e8732bf80"
+    },
+    "ui_choumahongquan_02": {
+      "__uuid__": "b3357ddb-7f16-4984-8e47-bf9f05998c21"
+    },
+    "ui_choumahongquan_03": {
+      "__uuid__": "d61fc5c9-83d8-4898-92a0-750b35a75c13"
+    },
+    "ui_choumahongquan_04": {
+      "__uuid__": "d1c23f4a-6ff6-45cc-b87f-2c6c85414990"
+    },
+    "ui_choumahongquan_05": {
+      "__uuid__": "f5c5a30d-d799-4c43-8536-8535bf06165d"
+    },
+    "ui_choumahongquan_06": {
+      "__uuid__": "f47d6bb0-b083-4ffa-9924-8be7d4aa0499"
+    },
+    "ui_choumahongquan_07": {
+      "__uuid__": "d7d51497-70af-4f87-923f-09661defe7e4"
+    },
+    "ui_choumahongquan_08": {
+      "__uuid__": "dc5be007-97bf-4f63-8d73-94164cee1f51"
+    },
+    "ui_choumahongquan_09": {
+      "__uuid__": "e6eb64f9-3930-4601-a7f4-1094b5c7bfa0"
+    },
+    "ui_choumahongquan_10": {
+      "__uuid__": "c336f9b3-ab3b-4d02-a3df-00a04bc8b245"
+    },
+    "ui_choumahongquan_11": {
+      "__uuid__": "539008c0-26a8-41ca-9c94-d7129fd11532"
+    },
+    "ui_choumahongquan_12": {
+      "__uuid__": "78bde62f-c6d2-449e-924f-d3b49eb2719c"
+    },
+    "ui_choumahongquan_13": {
+      "__uuid__": "dffc10e0-8ead-4e85-bac4-bbf3deae1eba"
+    },
+    "ui_choumahongquan_14": {
+      "__uuid__": "327bb9b6-e470-4365-9833-b222bdfa532b"
+    },
+    "ui_choumahongquan_15": {
+      "__uuid__": "31aa0c7f-68a2-42e3-930c-8e1174532b19"
+    },
+    "ui_choumahongquan_16": {
+      "__uuid__": "e6857cff-5b7e-4355-8763-b914fdce8ee2"
+    },
+    "ui_choumahongquan_17": {
+      "__uuid__": "ae461c86-c4d0-4cab-b589-5fb9a34e7f8c"
+    },
+    "ui_choumahongquan_18": {
+      "__uuid__": "4cfde806-7dfc-4935-a7fb-a75a555db0dc"
+    },
+    "ui_choumahongquan_19": {
+      "__uuid__": "f23aaa17-bdcd-450e-9ee3-72a1b1233438"
+    },
+    "ui_choumahongquan_20": {
+      "__uuid__": "42466d13-9c32-4cae-b1cb-4cc79d2dee86"
+    },
+    "ui_choumahongquan_21": {
+      "__uuid__": "dbb4931f-e61d-427e-8b65-628a9a2d0929"
+    },
+    "ui_choumahongquan_22": {
+      "__uuid__": "840b12cd-239d-418f-8d7f-8031a30b03ef"
+    },
+    "ui_choumahongquan_23": {
+      "__uuid__": "863fe37e-48ed-48bc-a113-ce20fdd179f0"
+    },
+    "ui_choumahongquan_24": {
+      "__uuid__": "94d9f5d1-d083-4f80-abbe-4fc1f4f8f650"
+    },
+    "ui_choumahongquan_25": {
+      "__uuid__": "2f5736de-b2d0-4d2d-b9eb-3e5379f48920"
+    },
+    "ui_choumahongquan_26": {
+      "__uuid__": "41dff9cd-88e8-47c1-abaf-38e329ed142c"
+    },
+    "ui_choumahongquan_27": {
+      "__uuid__": "e467a5bb-f787-4431-8d4e-df96f78179f2"
+    },
+    "ui_choumahongquan_28": {
+      "__uuid__": "b1caf7f3-f0a7-4062-9520-e08a6b283d71"
+    },
+    "ui_choumahongquan_29": {
+      "__uuid__": "a8323113-083f-49bb-b175-4187212d96f3"
+    },
+    "ui_choumahongquan_30": {
+      "__uuid__": "f102ae93-0586-4a55-9d66-338eeb34cfdc"
+    },
+    "ui_choumahongquan_31": {
+      "__uuid__": "52741830-cfbc-44fc-962e-0c9cf954faa8"
+    },
+    "ui_choumahongquan_32": {
+      "__uuid__": "53dc78a1-60e7-4769-99fa-445c73dbe567"
+    }
+  }
+}

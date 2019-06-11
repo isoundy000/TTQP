@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-Mall",
+    "texture": "ffd459cc-19ee-46b7-aa41-a97269f746e2",
+    "atlas": "",
+    "rect": [
+      8,
+      7,
+      144,
+      131
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      160,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

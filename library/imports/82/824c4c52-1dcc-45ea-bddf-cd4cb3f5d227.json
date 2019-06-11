@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_cancel_title",
+    "texture": "95682f79-cba9-40d6-a1aa-6702115ee491",
+    "atlas": "216cf41b-a520-449e-9e03-fb5cb74707c3",
+    "rect": [
+      1087,
+      0,
+      114,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      62
+    ]
+  }
+}

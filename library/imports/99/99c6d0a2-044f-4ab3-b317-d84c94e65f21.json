@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_pack_imgs_new.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "img_detail_bg": {
+      "__uuid__": "f270a6a5-3574-4393-8a20-aeffeb71908d"
+    },
+    "img_item_bg": {
+      "__uuid__": "88f87e23-a1ed-4047-bb8b-7d9bab59a9aa"
+    },
+    "img_shop_bg": {
+      "__uuid__": "c95572ca-8d3c-4223-8645-3dd5a2b180c0"
+    },
+    "img_title_bg_icon_01": {
+      "__uuid__": "4a1d03e1-82e7-4a5e-8ba4-6da91c43a6a3"
+    },
+    "img_title_bg_icon_02": {
+      "__uuid__": "2357ad33-f3a7-4b8e-977d-a12bf7fac317"
+    },
+    "pack_title": {
+      "__uuid__": "dd86b660-81f8-4b6a-8524-5762a533b898"
+    },
+    "title_djmc": {
+      "__uuid__": "e8fe96d2-48b8-445f-9201-c4a7f7e4459b"
+    },
+    "title_djsl": {
+      "__uuid__": "f57b30df-566b-4abd-99dc-a91ad33f53bc"
+    },
+    "title_djyt": {
+      "__uuid__": "7ba881d7-64c4-4fb1-ae06-b86b9107a63b"
+    },
+    "title_sy": {
+      "__uuid__": "1cc7feeb-4889-4d3c-8192-336f64b9df5f"
+    }
+  }
+}

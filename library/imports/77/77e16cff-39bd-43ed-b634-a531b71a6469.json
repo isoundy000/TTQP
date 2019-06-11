@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "jajale-sqdj.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "dang": {
+      "__uuid__": "1af8deea-9b31-42e2-ab8d-7d156c7f25f5"
+    },
+    "djlb": {
+      "__uuid__": "1976465a-6273-4944-822a-bb2434c06889"
+    },
+    "draw1": {
+      "__uuid__": "dd0a3795-8cb7-4132-9d09-3820fd475153"
+    },
+    "draw2": {
+      "__uuid__": "f5294028-12c5-402d-8515-fd0215c07662"
+    },
+    "qxdj": {
+      "__uuid__": "51da391c-c382-4f36-8583-bcc5613dbd1d"
+    },
+    "qxsqTitle": {
+      "__uuid__": "dac28638-5354-4069-a7f1-a23813f52a63"
+    },
+    "sqdj": {
+      "__uuid__": "7ac44300-3679-4d8e-b04d-8cea1a0494d9"
+    }
+  }
+}

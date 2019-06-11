@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_choumachengse_01",
+    "texture": "0704be2a-a4c8-4244-8270-a7f8fc38676d",
+    "atlas": "30e4d75e-bad9-4883-91d9-02118badaeb9",
+    "rect": [
+      338,
+      338,
+      110,
+      108
+    ],
+    "offset": [
+      -1,
+      -1
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mall-zuanshi-icon",
+    "texture": "ef7b9c05-af8d-485a-b4c2-2279869f7c65",
+    "atlas": "",
+    "rect": [
+      41,
+      0,
+      1499,
+      188
+    ],
+    "offset": [
+      20.5,
+      4.5
+    ],
+    "originalSize": [
+      1540,
+      197
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

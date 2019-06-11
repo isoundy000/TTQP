@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_signIn_imgs_new.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "home_signIn_bright_img": {
+      "__uuid__": "638b9414-538e-4c51-89af-67c34f9ebffc"
+    },
+    "home_signIn_btn_qdlj_title": {
+      "__uuid__": "3cdc2394-0948-4265-9c0a-bd299f384661"
+    },
+    "home_signIn_day_title_01": {
+      "__uuid__": "3ec84cd8-e6d9-4931-97ae-4ad6d2e78844"
+    },
+    "home_signIn_day_title_02": {
+      "__uuid__": "2f633c6e-ee0a-4f13-afee-5adb871f9361"
+    },
+    "home_signIn_day_title_03": {
+      "__uuid__": "45ae7a15-53b2-419e-ab16-a5a3bfab0bf0"
+    },
+    "home_signIn_day_title_04": {
+      "__uuid__": "3fbb958f-928f-40f3-9d28-576a22984c4f"
+    },
+    "home_signIn_day_title_05": {
+      "__uuid__": "b0941e48-f0a0-4631-a79a-e9b1a21153f7"
+    },
+    "home_signIn_day_title_06": {
+      "__uuid__": "2d9e063b-b2b9-43a9-abdc-d84fcd09b9fc"
+    },
+    "home_signIn_day_title_07": {
+      "__uuid__": "ef225ac5-b45f-4df7-81c6-2cf67742aeb8"
+    },
+    "home_signIn_gxhd_title": {
+      "__uuid__": "ee22326a-42e7-4eeb-bb92-e16ed9912dfb"
+    },
+    "home_signIn_item_bg": {
+      "__uuid__": "5ee98b8c-c965-42ae-b5f1-eece82c05e78"
+    },
+    "home_signIn_status_img_01": {
+      "__uuid__": "885c2772-d0aa-4382-9d56-8ecccc387d34"
+    },
+    "home_signIn_status_img_02": {
+      "__uuid__": "fe105265-2f77-45ef-bd24-23a774ad10df"
+    },
+    "home_signIn_title": {
+      "__uuid__": "cca1bf4b-2190-4807-b1b3-2a43cc4711ad"
+    },
+    "home_signIn_wzdl_title": {
+      "__uuid__": "0d876dd6-81bc-49aa-8d8c-01d0e2aeab32"
+    },
+    "home_signIn_yqd_title": {
+      "__uuid__": "28160635-5a38-4acb-8abf-34ebda30215f"
+    }
+  }
+}

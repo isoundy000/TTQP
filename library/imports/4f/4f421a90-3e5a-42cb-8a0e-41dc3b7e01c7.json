@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_email_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "home_email_btn_bg_01": {
+      "__uuid__": "843bd687-9eb3-48a9-946a-91d68b8e1811"
+    },
+    "home_email_btn_bg_02": {
+      "__uuid__": "347a1a0b-d8ae-4499-ab0d-8d84d0c48ca8"
+    },
+    "home_email_btn_bg_11": {
+      "__uuid__": "581af2c1-b2a6-464d-8e59-892d5235a17a"
+    },
+    "home_email_btn_bg_12": {
+      "__uuid__": "d9a321e3-f91f-4719-a4f8-6a39b0a4a573"
+    },
+    "home_email_btn_bg_21": {
+      "__uuid__": "3697c589-628f-4122-a356-8165f9be6b93"
+    },
+    "home_email_btn_bg_22": {
+      "__uuid__": "76bd4c28-43b6-45ff-88f9-12bb9098df1a"
+    },
+    "home_email_btn_bg_23": {
+      "__uuid__": "fa8e5d7d-40a1-4353-9a27-f72090f91ad6"
+    },
+    "home_email_btn_interval": {
+      "__uuid__": "916e43a1-2597-4541-b55f-5f29547fa7e1"
+    },
+    "home_email_chakan_title": {
+      "__uuid__": "854dfbe7-e8bb-48ea-bc1a-c1bb2a7daf4a"
+    },
+    "home_email_chakanyj_title": {
+      "__uuid__": "88791ac0-c3e0-44cc-9271-8ec650a9df07"
+    },
+    "home_email_close_icon": {
+      "__uuid__": "381ab048-8cf8-4423-bd13-0ff6def28dcb"
+    },
+    "home_email_del_title": {
+      "__uuid__": "47695b0c-8895-4799-9fef-f3765e6a0bcb"
+    },
+    "home_email_detail_bg": {
+      "__uuid__": "e28ff9c0-b182-42aa-9f8f-0f68f0827ae5"
+    },
+    "home_email_empty": {
+      "__uuid__": "da3d9f14-2cdd-4de6-943f-4002540c48c5"
+    },
+    "home_email_fsyj_title": {
+      "__uuid__": "4937437c-8079-428c-b53e-b115bd570ff0"
+    },
+    "home_email_gift_box_icon": {
+      "__uuid__": "9add2b7e-281c-42c6-984e-3d5c14821491"
+    },
+    "home_email_gold_bg_01": {
+      "__uuid__": "a314d74c-a6ad-4a7f-89cc-556ac34f8f13"
+    },
+    "home_email_gold_bg_02": {
+      "__uuid__": "c947634b-4de3-42e3-b48c-d23bb0ba3de1"
+    },
+    "home_email_huifu_title": {
+      "__uuid__": "7cdf5892-36c2-4369-aaf4-f2adcf57c5e8"
+    },
+    "home_email_item_bg": {
+      "__uuid__": "e5ee252b-424a-4d0e-9457-0970dc32f0c4"
+    },
+    "home_email_lingqu_title": {
+      "__uuid__": "e719542c-6b2e-4c13-8af6-7a442b796212"
+    },
+    "home_email_oppen_icon": {
+      "__uuid__": "59ecaaf7-c94b-468c-b387-ecc51ac70f03"
+    },
+    "home_email_send_title_01": {
+      "__uuid__": "4b1275be-b075-48d6-8418-e164ed2959c2"
+    },
+    "home_email_send_title_02": {
+      "__uuid__": "1e1c3928-6a06-40c9-9bf3-cccef2271747"
+    },
+    "home_email_show_yiwan": {
+      "__uuid__": "78768b5c-1cdd-40fd-8c7b-2d60e3c36231"
+    },
+    "home_email_title": {
+      "__uuid__": "dc3e941a-8f5c-4463-aecb-8d755cbda24c"
+    },
+    "home_email_title_bg": {
+      "__uuid__": "37c7ecdc-42f8-44b3-8cbd-aaf9012b8f0b"
+    },
+    "home_email_yichakan": {
+      "__uuid__": "4681999d-7089-4a8c-a8f7-b19586be2434"
+    },
+    "home_email_yiwan_bg": {
+      "__uuid__": "78660ed7-bf76-4cf3-bb8b-8c670dade535"
+    }
+  }
+}

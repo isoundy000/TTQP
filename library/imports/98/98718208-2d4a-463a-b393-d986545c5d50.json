@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_choumahong",
+    "texture": "7b2e753b-bf2a-491f-a7c8-3ef0db1d0d5a",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      448,
+      454
+    ],
+    "offset": [
+      -30,
+      27
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

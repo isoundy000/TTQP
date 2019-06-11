@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-Btn3",
+    "texture": "21781e37-8603-48b5-a2a2-c1d2f07cc877",
+    "atlas": "",
+    "rect": [
+      5,
+      2,
+      152,
+      76
+    ],
+    "offset": [
+      0,
+      1.5
+    ],
+    "originalSize": [
+      162,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

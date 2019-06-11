@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UI_KP_heitQ",
+    "texture": "1edb0592-77b8-455f-9c32-c80e845d3e43",
+    "atlas": "8b1a6085-bcea-4fae-8a90-8fc218a86f6c",
+    "rect": [
+      441,
+      613,
+      218,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      218,
+      200
+    ]
+  }
+}

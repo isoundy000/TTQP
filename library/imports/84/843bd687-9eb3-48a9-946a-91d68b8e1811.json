@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_email_btn_bg_01",
+    "texture": "d300c8f1-5155-450f-ae02-505d0c1d6140",
+    "atlas": "4f421a90-3e5a-42cb-8a0e-41dc3b7e01c7",
+    "rect": [
+      511,
+      72,
+      253,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      253,
+      92
+    ]
+  }
+}

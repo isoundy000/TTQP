@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_choumalan_08",
+    "texture": "b8296f0e-4162-44f6-8088-d82a3cc1bc5e",
+    "atlas": "3c1673d8-2517-459b-8b7b-fbd9b9b6d72c",
+    "rect": [
+      226,
+      340,
+      110,
+      110
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      128,
+      128
+    ]
+  }
+}

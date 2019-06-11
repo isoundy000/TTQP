@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-landlord-pair",
+    "texture": "742a9e1e-ffcc-488f-9d83-979b45baa16d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      208,
+      198
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      208,
+      198
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

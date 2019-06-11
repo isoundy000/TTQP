@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-smallInner",
+    "texture": "fbe2c137-5cff-4a57-8428-b1c24fca86d3",
+    "atlas": "",
+    "rect": [
+      4,
+      2,
+      59,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      65
+    ],
+    "capInsets": [
+      17,
+      17,
+      17,
+      17
+    ]
+  }
+}

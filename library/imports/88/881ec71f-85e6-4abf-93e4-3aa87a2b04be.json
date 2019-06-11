@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_top_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "home_top_add_ highlighted_icon": {
+      "__uuid__": "6cfe1bcf-3f8a-48df-af09-193790375568"
+    },
+    "home_top_add_normal_icon": {
+      "__uuid__": "1e1fa6d2-047c-4f22-b357-a92df896babb"
+    },
+    "home_top_bg_icon": {
+      "__uuid__": "7179471d-2130-424b-ac2a-67feeee05933"
+    },
+    "home_top_ditu_bg_icon": {
+      "__uuid__": "f64b4d90-4274-4ebf-b841-e1abd1f9eb1b"
+    },
+    "home_top_gold_bg_icon": {
+      "__uuid__": "5eaf24f5-5228-4401-b535-0b967e6d7f5b"
+    },
+    "home_top_gold_icon": {
+      "__uuid__": "f7e7b05a-6924-40d6-ab5c-b10c309287e2"
+    },
+    "home_top_head_bg_icon": {
+      "__uuid__": "790e53f5-2d13-404a-a477-8a9ee597e960"
+    },
+    "home_top_kefu1_icon": {
+      "__uuid__": "142c2099-dacb-4d93-9542-95d8ce47f96a"
+    },
+    "home_top_kefu2_icon": {
+      "__uuid__": "a1114511-f2c1-481b-9260-0e2f1808be89"
+    },
+    "home_top_name_bg_icon": {
+      "__uuid__": "29230123-5085-44fe-a70b-a6db4c49c7d2"
+    },
+    "home_top_zuan_icon": {
+      "__uuid__": "66d4b780-60d2-4529-935c-e8a21c299936"
+    }
+  }
+}

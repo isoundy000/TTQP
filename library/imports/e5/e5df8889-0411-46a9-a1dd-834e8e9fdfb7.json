@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_Ndadizhu.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ui_Ndadizhu_01": {
+      "__uuid__": "46107ae3-7a18-485c-be15-6bb4e3a099fe"
+    },
+    "ui_Ndadizhu_02": {
+      "__uuid__": "1ecdb636-1f31-4163-b8ef-8c912f012306"
+    },
+    "ui_Ndadizhu_03": {
+      "__uuid__": "7dad14a8-b82a-460a-9800-e18db1f9d510"
+    },
+    "ui_Ndadizhu_04": {
+      "__uuid__": "7c198e10-0540-4301-8709-55fcaf0c5bca"
+    },
+    "ui_Ndadizhu_05": {
+      "__uuid__": "6b0df9c0-841a-41a8-849c-2d2185e70ff7"
+    },
+    "ui_Ndadizhu_06": {
+      "__uuid__": "0f66f022-e967-405b-9222-ef6c5f6d1192"
+    },
+    "ui_Ndadizhu_07": {
+      "__uuid__": "fc1ee738-8a46-4d75-8e47-32b85e9a52a6"
+    },
+    "ui_Ndadizhu_08": {
+      "__uuid__": "2bf37b37-456f-44aa-ad2d-caa7f5ede3b5"
+    },
+    "ui_Ndadizhu_09": {
+      "__uuid__": "19f76d11-6e32-4f28-8033-46e385921512"
+    },
+    "ui_Ndadizhu_10": {
+      "__uuid__": "6589209d-3675-4e60-95b8-85b789289fa2"
+    },
+    "ui_Ndadizhu_11": {
+      "__uuid__": "687d60c3-4ad3-4a05-89cd-6c3dec7f51e9"
+    },
+    "ui_Ndadizhu_12": {
+      "__uuid__": "4d447231-8823-440d-8048-266bcadc9fea"
+    },
+    "ui_Ndadizhu_13": {
+      "__uuid__": "cfa90228-9f75-47c7-9906-fe5f9f2e35bb"
+    },
+    "ui_Ndadizhu_14": {
+      "__uuid__": "d520e285-8be4-4d47-89af-027a8fdf8d03"
+    },
+    "ui_Ndadizhu_15": {
+      "__uuid__": "fabb6765-dc97-47b5-931a-9120f500ecab"
+    },
+    "ui_Ndadizhu_16": {
+      "__uuid__": "afb17f93-61d9-49b0-8952-fc688cb61073"
+    }
+  }
+}

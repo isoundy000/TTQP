@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "friend_info_btn_recording_02",
+    "texture": "740a1f83-935f-47da-8663-813535077747",
+    "atlas": "914b6cca-a856-4f7f-b7aa-7ac636029b8a",
+    "rect": [
+      0,
+      66,
+      539,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      539,
+      66
+    ]
+  }
+}

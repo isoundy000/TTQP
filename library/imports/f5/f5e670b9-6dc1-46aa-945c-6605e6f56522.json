@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "home_person_imgs.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "game_log_img_itembg": {
+      "__uuid__": "0a232289-463f-4abc-8696-c5a70d496280"
+    },
+    "game_log_title_fjlx": {
+      "__uuid__": "6c7eb22e-261b-48e3-95fa-84290b636a2c"
+    },
+    "game_log_title_jbbh": {
+      "__uuid__": "c691ebd3-b21d-4909-ba10-531c7a20c9ef"
+    },
+    "game_log_title_ksjb": {
+      "__uuid__": "75ae3e73-c966-4df7-aad7-e984c4727a6c"
+    },
+    "game_log_title_lssj": {
+      "__uuid__": "e02c1ee0-c33e-4a98-b294-e0e9f3701556"
+    },
+    "game_log_title_pjjl": {
+      "__uuid__": "7894cd44-72e5-49a5-bd3d-660e081abf68"
+    },
+    "game_log_title_px": {
+      "__uuid__": "04cf7b3c-871b-405f-a796-455417575495"
+    },
+    "game_log_title_sf": {
+      "__uuid__": "70c93482-b36d-4599-9f5a-0bfa3bc06712"
+    },
+    "game_log_title_yxc": {
+      "__uuid__": "f3e59230-2245-49e6-b6fc-48b7e86c10e9"
+    },
+    "game_log_title_yxlx": {
+      "__uuid__": "50e911a7-da7f-4ac4-b3d7-5aa52705e4d2"
+    },
+    "person_info_img_boy": {
+      "__uuid__": "a27d644b-f141-4933-b1ce-f415f2534fd0"
+    },
+    "person_info_img_girl": {
+      "__uuid__": "9840b23c-5a94-4eac-bfd2-1c4b25e332e8"
+    },
+    "person_info_title_alert": {
+      "__uuid__": "1e73a9b3-8102-44ab-82c5-79172ff26662"
+    },
+    "person_info_title_bd": {
+      "__uuid__": "61866c6e-06e9-4d05-b7b5-185d3573d086"
+    },
+    "person_info_title_bdsj": {
+      "__uuid__": "d2ff8b29-e404-4dc9-9d38-f05f96605507"
+    },
+    "person_info_title_bdsj_01": {
+      "__uuid__": "c11c096b-4887-4e26-805e-af5f8e947c69"
+    },
+    "person_info_title_dh": {
+      "__uuid__": "3af1a860-b6db-42ad-a090-3b098c7e4f3c"
+    },
+    "person_info_title_djzg": {
+      "__uuid__": "ee91703c-0bdf-4d6d-b166-280d69adcc44"
+    },
+    "person_info_title_grxx": {
+      "__uuid__": "05ef974a-ce40-4e2d-9f73-79c7c65ea492"
+    },
+    "person_info_title_pjjl": {
+      "__uuid__": "aa2c889e-1f1e-4174-8695-a9962bb907ce"
+    },
+    "person_info_title_xb": {
+      "__uuid__": "f610ce25-ccc6-4ad0-9a2e-46ad502f4fe9"
+    },
+    "person_info_title_zgzc": {
+      "__uuid__": "2af3f86f-7883-4d77-9f54-ec2d3e3b90de"
+    },
+    "person_info_title_zjs": {
+      "__uuid__": "96013661-fded-4b25-b28d-2acdc9d57c4a"
+    },
+    "person_info_title_zyl": {
+      "__uuid__": "488ce4dc-edca-4eca-9643-61ca4152f669"
+    }
+  }
+}

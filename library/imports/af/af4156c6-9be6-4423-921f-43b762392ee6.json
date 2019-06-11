@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_signIn_texiao",
+    "texture": "39f5d201-943d-456b-bdc1-34f240012160",
+    "atlas": "0361d4a7-352f-4ec4-bf3f-66660a508167",
+    "rect": [
+      135,
+      117,
+      251,
+      287
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      251,
+      287
+    ]
+  }
+}

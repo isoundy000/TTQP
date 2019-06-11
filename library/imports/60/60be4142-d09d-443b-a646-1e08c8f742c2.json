@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-duizi",
+    "texture": "798a3be6-a818-46d8-81b1-51ae1efcb3be",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      45,
+      128
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      50,
+      133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

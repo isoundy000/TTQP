@@ -1,0 +1,104 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_hongseduiziqua.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ui_hongseduiziqua_00000": {
+      "__uuid__": "a17a4135-bafd-48c6-a257-1bc448c0fc7c"
+    },
+    "ui_hongseduiziqua_00001": {
+      "__uuid__": "cd3aadd2-d26b-4f53-a74d-0028115edda8"
+    },
+    "ui_hongseduiziqua_00002": {
+      "__uuid__": "7133b9cb-baae-4f9e-8246-8aa1f7cb6727"
+    },
+    "ui_hongseduiziqua_00003": {
+      "__uuid__": "437a18e5-977b-474a-9373-66c65b7efa44"
+    },
+    "ui_hongseduiziqua_00004": {
+      "__uuid__": "3d3ac18d-0bd0-42c9-830a-9e3a44c8a40c"
+    },
+    "ui_hongseduiziqua_00005": {
+      "__uuid__": "b7f52e61-d237-495f-96e8-d5f6d79b3b0a"
+    },
+    "ui_hongseduiziqua_00006": {
+      "__uuid__": "a2012c67-3a18-415d-9e58-a2da22deca87"
+    },
+    "ui_hongseduiziqua_00007": {
+      "__uuid__": "3380dc4f-60b9-4a4b-9e4d-12038d72cfa7"
+    },
+    "ui_hongseduiziqua_00008": {
+      "__uuid__": "bd565322-987d-472d-818e-3fe85406dedd"
+    },
+    "ui_hongseduiziqua_00009": {
+      "__uuid__": "a9758ca8-0f28-4a5f-8b40-f6812d0ba992"
+    },
+    "ui_hongseduiziqua_00010": {
+      "__uuid__": "60eee22a-ad54-4c7d-820b-5e28463de424"
+    },
+    "ui_hongseduiziqua_00011": {
+      "__uuid__": "cf4a5179-909a-4260-8354-2774d97a3d5e"
+    },
+    "ui_hongseduiziqua_00012": {
+      "__uuid__": "a01caa7c-4e65-450f-968e-593d8343d1a8"
+    },
+    "ui_hongseduiziqua_00013": {
+      "__uuid__": "98faf0b0-be8c-4b73-9b95-a1fc77f14267"
+    },
+    "ui_hongseduiziqua_00014": {
+      "__uuid__": "86affe01-5874-44d8-8c75-68c1d00c1f7c"
+    },
+    "ui_hongseduiziqua_00015": {
+      "__uuid__": "17554054-66a8-4185-88c1-ced0d3404f79"
+    },
+    "ui_hongseduiziqua_00016": {
+      "__uuid__": "d23e3277-efd3-4ba4-9f52-db2f7d04feeb"
+    },
+    "ui_hongseduiziqua_00017": {
+      "__uuid__": "74643199-2e38-4784-9ca7-9481284f5cd4"
+    },
+    "ui_hongseduiziqua_00018": {
+      "__uuid__": "e163dd82-d245-4234-a98d-dbc003b8b5f2"
+    },
+    "ui_hongseduiziqua_00019": {
+      "__uuid__": "a3c391c5-2a3b-4736-9e02-0be8d604f7d7"
+    },
+    "ui_hongseduiziqua_00020": {
+      "__uuid__": "a2614b89-9689-4744-9b15-3c2dd97c4c19"
+    },
+    "ui_hongseduiziqua_00021": {
+      "__uuid__": "e9478e8b-605e-45db-ad17-11b3c9fdc2c8"
+    },
+    "ui_hongseduiziqua_00022": {
+      "__uuid__": "7f17cada-5bf2-4689-a0e7-8fff7cc4ad17"
+    },
+    "ui_hongseduiziqua_00023": {
+      "__uuid__": "ff98ab5e-10be-41a0-ab2d-20c47e8c1447"
+    },
+    "ui_hongseduiziqua_00024": {
+      "__uuid__": "51b07fc0-a55a-4558-8002-d6df5883a9c7"
+    },
+    "ui_hongseduiziqua_00025": {
+      "__uuid__": "0f917dc2-8fae-4cf6-b44c-6e8915a9f150"
+    },
+    "ui_hongseduiziqua_00026": {
+      "__uuid__": "74cd416d-2661-4e90-96e3-236e10802da9"
+    },
+    "ui_hongseduiziqua_00027": {
+      "__uuid__": "ad6f07c1-4fb2-41d5-bcb4-30c3eb8eb7ba"
+    },
+    "ui_hongseduiziqua_00028": {
+      "__uuid__": "d04d5435-4af1-4ac7-88d0-95e587a4d303"
+    },
+    "ui_hongseduiziqua_00029": {
+      "__uuid__": "39833a3c-8328-4d7f-a3ae-6b586faebe77"
+    },
+    "ui_hongseduiziqua_00030": {
+      "__uuid__": "d9defe82-92cc-4ecb-9627-411c6a22b07b"
+    },
+    "ui_hongseduiziqua_00031": {
+      "__uuid__": "c6d0b8e4-27ef-42a3-9eec-3be251061bac"
+    }
+  }
+}

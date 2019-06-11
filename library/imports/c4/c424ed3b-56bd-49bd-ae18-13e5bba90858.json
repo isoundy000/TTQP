@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_signIn_imgs",
+    "texture": "39f5d201-943d-456b-bdc1-34f240012160",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      790,
+      1382
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      790,
+      1382
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

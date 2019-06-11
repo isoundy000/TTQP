@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c31f3f35-059b-4a3d-9732-5e18b9f52765",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "delHomeTitle": {
+      "ver": "1.0.3",
+      "uuid": "025d01a3-0621-45f1-b486-fd7cee171dbd",
+      "rawTextureUuid": "c31f3f35-059b-4a3d-9732-5e18b9f52765",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 328,
+      "height": 83,
+      "rawWidth": 332,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

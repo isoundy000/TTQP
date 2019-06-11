@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-BG",
+    "texture": "650e0241-e206-47f9-9345-de54ca5a6808",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2436,
+      1125
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2436,
+      1125
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

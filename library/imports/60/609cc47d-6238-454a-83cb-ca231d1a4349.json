@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_rubCard_hideCard_02",
+    "texture": "edd9f416-5f74-4052-a5ec-2478882bb755",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      95,
+      99
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      99,
+      99
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

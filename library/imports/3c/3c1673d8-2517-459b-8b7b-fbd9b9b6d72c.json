@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_choumalan.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ui_choumalan_01": {
+      "__uuid__": "8c8fe67b-a59a-4c12-9f09-298e36ca812b"
+    },
+    "ui_choumalan_02": {
+      "__uuid__": "da1b2d6f-3a9c-44ae-b0d7-b8159146e3e7"
+    },
+    "ui_choumalan_03": {
+      "__uuid__": "f424cd20-e190-4b72-b3c0-4c73159e0226"
+    },
+    "ui_choumalan_04": {
+      "__uuid__": "07304d69-77fb-4629-bdc8-26f1607057f7"
+    },
+    "ui_choumalan_05": {
+      "__uuid__": "1ec80bda-7050-41ac-8d95-65135e2a3233"
+    },
+    "ui_choumalan_06": {
+      "__uuid__": "099700c9-36d6-40e0-8f9b-45ffcf8f151d"
+    },
+    "ui_choumalan_07": {
+      "__uuid__": "054a37c1-6610-4b86-a0ea-14efce5a4d5e"
+    },
+    "ui_choumalan_08": {
+      "__uuid__": "d9c83b8d-3896-48ee-8a3d-0d76aaf2968c"
+    },
+    "ui_choumalan_09": {
+      "__uuid__": "9cf7f110-f26d-4964-840f-1f9f676a3da4"
+    },
+    "ui_choumalan_10": {
+      "__uuid__": "f117e494-ecb9-413e-a4b4-fc48ebdaae2b"
+    },
+    "ui_choumalan_11": {
+      "__uuid__": "56b65b8d-41bc-408e-8897-54ecbead7ee6"
+    },
+    "ui_choumalan_12": {
+      "__uuid__": "61df1c33-a235-4589-925c-f46838f42db4"
+    },
+    "ui_choumalan_13": {
+      "__uuid__": "e3cfe76e-7a3e-42e4-bb37-e6536342ff67"
+    },
+    "ui_choumalan_14": {
+      "__uuid__": "d30c95ca-778f-4632-95c8-6bf3032261e8"
+    },
+    "ui_choumalan_15": {
+      "__uuid__": "1cd8689e-9235-49e4-9dfe-04fd841aaf64"
+    },
+    "ui_choumalan_16": {
+      "__uuid__": "83f89cb7-a0ed-451c-a29a-b76d105f0071"
+    }
+  }
+}

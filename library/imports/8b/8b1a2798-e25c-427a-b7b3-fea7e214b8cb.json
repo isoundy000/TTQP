@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-playingB2",
+    "texture": "2353f0af-044f-422d-b810-9282f4c96319",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      191,
+      32
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      191,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

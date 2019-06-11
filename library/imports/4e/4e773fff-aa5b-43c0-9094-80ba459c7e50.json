@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "email_title_sjrnc",
+    "texture": "70bd7788-d827-4660-92ec-eec89d8a1cd2",
+    "atlas": "1e23be1c-4a0b-4b1e-a8fd-10abfb82b583",
+    "rect": [
+      586,
+      0,
+      221,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      221,
+      45
+    ]
+  }
+}

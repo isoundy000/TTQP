@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_jiajiale.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ui_jiajiale_01": {
+      "__uuid__": "664321eb-3918-4411-9cb8-64c3762feeb8"
+    },
+    "ui_jiajiale_02": {
+      "__uuid__": "8e07c43e-64fe-43d7-97ee-af2df5f9967d"
+    },
+    "ui_jiajiale_03": {
+      "__uuid__": "6077dd1f-a8ef-45fe-a314-1145098cea68"
+    },
+    "ui_jiajiale_04": {
+      "__uuid__": "1965bafb-acb7-4d23-b62f-a5178110b086"
+    },
+    "ui_jiajiale_05": {
+      "__uuid__": "c626fec4-2cfe-4310-aa3c-2b1a750c3307"
+    },
+    "ui_jiajiale_06": {
+      "__uuid__": "59031796-cf2c-4c71-953a-7fc50e9a2bed"
+    },
+    "ui_jiajiale_07": {
+      "__uuid__": "4b3bbe3c-9ad9-47f4-9b92-1ec4b8fa88bf"
+    },
+    "ui_jiajiale_08": {
+      "__uuid__": "06fd62a4-26c8-4895-88a8-3fa04a1e125e"
+    },
+    "ui_jiajiale_09": {
+      "__uuid__": "52d65cc2-e585-41b9-81f9-1cfb284ada35"
+    },
+    "ui_jiajiale_10": {
+      "__uuid__": "cb72150b-d410-4d5f-8f3f-3df18bbf8cf1"
+    },
+    "ui_jiajiale_11": {
+      "__uuid__": "e5553bdd-2963-423a-890c-6da7946e2f91"
+    },
+    "ui_jiajiale_12": {
+      "__uuid__": "21eeafd5-60cd-48a4-8ab4-184d86891aa7"
+    },
+    "ui_jiajiale_13": {
+      "__uuid__": "7fe01a8e-fe11-4dbd-83ec-1ed62cf74246"
+    },
+    "ui_jiajiale_14": {
+      "__uuid__": "57e0b5de-335a-4a13-8407-2d6cf26f94cd"
+    },
+    "ui_jiajiale_15": {
+      "__uuid__": "41de438d-8f50-4996-ad94-7f840bdb14c9"
+    },
+    "ui_jiajiale_16": {
+      "__uuid__": "c4fa471b-90e0-4f60-bbb7-0d141b9f3488"
+    }
+  }
+}

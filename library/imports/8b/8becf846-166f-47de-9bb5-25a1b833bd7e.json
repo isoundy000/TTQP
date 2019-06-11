@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_choumazi_16",
+    "texture": "8bc650e3-a42d-4ff5-8784-cd82f07003cd",
+    "atlas": "6298f5ed-6bd5-44fe-8d3c-65ec365c76cd",
+    "rect": [
+      114,
+      116,
+      112,
+      110
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "rotated": 1
+  }
+}

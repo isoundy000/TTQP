@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "propaganda.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "propaganda-cancel": {
+      "__uuid__": "49244810-cb30-44b1-9b3e-6d70c3496fc4"
+    },
+    "propaganda-sure": {
+      "__uuid__": "da56f8be-4e06-46fe-945b-b4b4e5f8c505"
+    },
+    "propaganda": {
+      "__uuid__": "ea4a9d7b-9733-4172-92cd-044894c43974"
+    }
+  }
+}

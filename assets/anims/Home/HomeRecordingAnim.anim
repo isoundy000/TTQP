@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "HomeRecordingAmins",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "40519270-f70b-4387-9135-12f9d62d7504"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "afc4b788-bf2f-4656-8945-d224809c61e5"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "3dad0211-0840-4e47-bf95-57db5227076d"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "daa83d94-6934-4e95-8759-40dfb8b6d543"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "40519270-f70b-4387-9135-12f9d62d7504"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "farmerWin",
+    "texture": "25819f78-75fd-4afd-8eac-07158c7980db",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      108,
+      38
+    ],
+    "offset": [
+      -0.5,
+      -1.5
+    ],
+    "originalSize": [
+      113,
+      41
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

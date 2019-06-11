@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui_choumahong.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "ui_choumahong_01": {
+      "__uuid__": "4c880be3-eb71-4425-bba6-c2cf4b449495"
+    },
+    "ui_choumahong_02": {
+      "__uuid__": "8e1ed2d0-d886-41c3-8056-703fed1015f7"
+    },
+    "ui_choumahong_03": {
+      "__uuid__": "ccbb01bf-2f9f-4c70-8fcd-f9c13c1b8e0f"
+    },
+    "ui_choumahong_04": {
+      "__uuid__": "fa357787-ca04-408f-a8d5-c797b8e5075c"
+    },
+    "ui_choumahong_05": {
+      "__uuid__": "df19c4f6-63c9-46b2-a649-61c4292d4b24"
+    },
+    "ui_choumahong_06": {
+      "__uuid__": "cad676e1-e6ee-4358-9ccb-3a85d0deb1b9"
+    },
+    "ui_choumahong_07": {
+      "__uuid__": "fd191403-0c00-4a5a-9ca8-2f0583297ab8"
+    },
+    "ui_choumahong_08": {
+      "__uuid__": "374eea1e-589c-4ac2-bbc4-9f99a31ce037"
+    },
+    "ui_choumahong_09": {
+      "__uuid__": "71fe9447-b6b0-4b5e-bcfb-9c77bfb89fd0"
+    },
+    "ui_choumahong_10": {
+      "__uuid__": "a30728eb-b7c5-43b5-a776-52e5f5bcec20"
+    },
+    "ui_choumahong_11": {
+      "__uuid__": "00d6aa94-9026-455a-8114-2215604c3091"
+    },
+    "ui_choumahong_12": {
+      "__uuid__": "fcdbfa0f-7298-4084-adb4-b4c70dfa445c"
+    },
+    "ui_choumahong_13": {
+      "__uuid__": "3e04c607-068a-45f4-a097-41af32cdf5df"
+    },
+    "ui_choumahong_14": {
+      "__uuid__": "7c73a8b5-6dfd-4e50-9093-7d7b95ed10f2"
+    },
+    "ui_choumahong_15": {
+      "__uuid__": "5ce43036-ef52-43b3-928b-6ddd015ec207"
+    },
+    "ui_choumahong_16": {
+      "__uuid__": "730e5f77-5a5d-4f0e-af8b-2f8420ad50a5"
+    }
+  }
+}

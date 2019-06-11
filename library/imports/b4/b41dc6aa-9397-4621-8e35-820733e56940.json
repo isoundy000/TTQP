@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "farmerMao",
+    "texture": "8ce66327-cc1b-4ab7-8e2d-c53937e5e234",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      49,
+      39
+    ],
+    "offset": [
+      -2.5,
+      0
+    ],
+    "originalSize": [
+      54,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

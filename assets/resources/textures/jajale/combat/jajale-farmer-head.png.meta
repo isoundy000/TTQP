@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8d78a1ba-ec3a-4f3c-a8c3-f5dfac547248",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "jajale-farmer-head": {
+      "ver": "1.0.3",
+      "uuid": "d26cdfaf-30c3-4b93-b162-757114776d4a",
+      "rawTextureUuid": "8d78a1ba-ec3a-4f3c-a8c3-f5dfac547248",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 7,
+      "width": 141,
+      "height": 132,
+      "rawWidth": 141,
+      "rawHeight": 146,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

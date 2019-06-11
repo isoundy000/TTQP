@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_kefu_imgs",
+    "texture": "b0a85885-bc8f-4ae0-99fd-b3e87ff4d75a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1799,
+      1419
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1799,
+      1419
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

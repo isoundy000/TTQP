@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_ying_2_20",
+    "texture": "c496ce03-9e7b-4478-9be7-3bdbc2ad340b",
+    "atlas": "6f14370d-3b85-49a3-896e-0260417d0243",
+    "rect": [
+      2,
+      518,
+      256,
+      128
+    ],
+    "offset": [
+      0,
+      -64
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "checkMiddle2",
+    "texture": "e8958bfa-fb54-4dae-adb4-879675a7ebb3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      66
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_friend_imgs",
+    "texture": "740a1f83-935f-47da-8663-813535077747",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      976,
+      612
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      976,
+      614
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

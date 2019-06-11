@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "添加好友正常",
+    "texture": "c1e8d7a2-e56d-4e38-b30b-48c1e944c7d7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      133,
+      134
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      134
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

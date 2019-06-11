@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "jajale-numtext.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "jajale-num0": {
+      "__uuid__": "c7f24e33-a624-4293-9047-127209baf08e"
+    },
+    "jajale-num1": {
+      "__uuid__": "1e2c909a-8111-40dc-a8f2-55eb27c93c54"
+    },
+    "jajale-num2": {
+      "__uuid__": "c7d961ae-500b-4c03-956f-a972dd4d659b"
+    },
+    "jajale-num3": {
+      "__uuid__": "c412debd-c04a-4f68-a5ac-e0b5e28ec19c"
+    },
+    "jajale-num4": {
+      "__uuid__": "0bb9078f-97c3-4b11-92d3-55f77ce8b68d"
+    },
+    "jajale-num5": {
+      "__uuid__": "21013eeb-5d77-4f41-92cc-828d58b25c2e"
+    },
+    "jajale-num6": {
+      "__uuid__": "0ba28dca-d71b-4e94-a0d4-8ddf0929cd52"
+    },
+    "jajale-num7": {
+      "__uuid__": "6b9b4fa5-7716-4be5-a745-d135a6f7866b"
+    },
+    "jajale-num8": {
+      "__uuid__": "bbff788c-9730-4e5f-9ce8-f7be5a1c06b6"
+    },
+    "jajale-num9": {
+      "__uuid__": "979dc94c-5b35-4d66-83e9-6d29b11bb7b4"
+    }
+  }
+}

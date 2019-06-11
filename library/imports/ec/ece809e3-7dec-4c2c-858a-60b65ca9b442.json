@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "minBox",
+    "texture": "d8619128-d51e-422b-8b7b-c8875b222c1b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      976,
+      555
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      976,
+      556
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

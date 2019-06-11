@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RMB_icon",
+    "texture": "f5adabfd-dcac-4f97-bb3a-05de04cdbe92",
+    "atlas": "",
+    "rect": [
+      16,
+      8,
+      45,
+      48
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      79,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

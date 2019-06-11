@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "home_top_add_ highlighted_icon",
+    "texture": "168c3f42-ed5b-4e6b-9673-b114f28b0172",
+    "atlas": "881ec71f-85e6-4abf-93e4-3aa87a2b04be",
+    "rect": [
+      0,
+      0,
+      65,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      65
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ui_baijiating_13",
+    "texture": "0123f06c-fcf6-4926-a4ad-91d4d7cecf28",
+    "atlas": "dfa62e04-9b77-4cdb-b01b-29101501f62e",
+    "rect": [
+      2,
+      776,
+      144,
+      232
+    ],
+    "offset": [
+      16,
+      -12
+    ],
+    "originalSize": [
+      256,
+      256
+    ]
+  }
+}

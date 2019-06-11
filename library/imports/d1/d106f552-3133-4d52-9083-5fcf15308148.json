@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jajale-jinbi",
+    "texture": "2f53c92c-5464-4e94-b515-3e53ab5cd175",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      57,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      57,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ef7b9c05-af8d-485a-b4c2-2279869f7c65",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "mall-zuanshi-icon": {
+      "ver": "1.0.3",
+      "uuid": "52d5dd03-3b93-4315-97be-191a575a4f4f",
+      "rawTextureUuid": "ef7b9c05-af8d-485a-b4c2-2279869f7c65",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 20.5,
+      "offsetY": 4.5,
+      "trimX": 41,
+      "trimY": 0,
+      "width": 1499,
+      "height": 188,
+      "rawWidth": 1540,
+      "rawHeight": 197,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

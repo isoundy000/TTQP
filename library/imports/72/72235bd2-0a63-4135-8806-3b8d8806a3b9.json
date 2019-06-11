@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "mall-typeface.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "mall-buy-diamond": {
+      "__uuid__": "136d51f7-0dca-4713-a5a8-e8d8f6fa33f9"
+    },
+    "mall-buy-gold": {
+      "__uuid__": "70054ca7-63de-4b25-bafa-8ef98e5873b2"
+    },
+    "mall-buy-prop": {
+      "__uuid__": "db9cfb0a-ba61-4e19-951f-5e6525dc0c13"
+    },
+    "mall-cancel": {
+      "__uuid__": "663876ed-4b0b-47e3-ac9d-15fdc4b92220"
+    },
+    "mall-confirm": {
+      "__uuid__": "d3b3f711-54d9-482c-ae7e-dc61fee99599"
+    },
+    "mall-no-buy-diamond": {
+      "__uuid__": "988cbae3-8eff-4c40-a86b-ba3afb8a313a"
+    },
+    "mall-no-buy-gold": {
+      "__uuid__": "4255056d-38c1-4f64-93d1-99c906177b30"
+    },
+    "mall-no-buy-prop": {
+      "__uuid__": "50a29cb1-b319-49ca-bd6a-a076b1e5260e"
+    }
+  }
+}
